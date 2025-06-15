@@ -6,3 +6,5 @@
 <!-- 2025-06-13T12:46:19 fix(inventory): pin fastapi version -->
 
 <!-- 2025-06-13T12:54:09 refactor(orders): handle duplicate SKU conflict properly -->
+
+<!-- 2025-06-15T15:47:27 test(warehouses): simplify dependency injection setup -->
