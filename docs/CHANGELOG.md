@@ -10,3 +10,5 @@
 <!-- 2025-06-15T15:47:27 test(warehouses): simplify dependency injection setup -->
 
 <!-- 2025-06-16T20:29:57 docs: add schema validation tests -->
+
+<!-- 2025-06-17T17:18:30 chore(api): add environment variable reference -->
