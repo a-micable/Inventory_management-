@@ -12,3 +12,5 @@
 <!-- 2025-06-16T20:29:57 docs: add schema validation tests -->
 
 <!-- 2025-06-17T17:18:30 chore(api): add environment variable reference -->
+
+<!-- 2025-06-19T09:18:14 perf(db): add GitHub Actions CI workflow -->
