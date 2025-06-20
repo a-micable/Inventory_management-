@@ -16,3 +16,5 @@
 <!-- 2025-06-19T09:18:14 perf(db): add GitHub Actions CI workflow -->
 
 <!-- 2025-06-19T20:36:24 style(cache): fix order subtotal calculation precision -->
+
+<!-- 2025-06-20T08:50:21 feat(workers): move business logic to service layer -->
