@@ -22,3 +22,5 @@
 <!-- 2025-06-21T08:15:30 fix(auth): add integration tests for auth flow -->
 
 <!-- 2025-06-22T09:41:27 refactor(inventory): update docker compose instructions -->
+
+<!-- 2025-06-22T10:00:22 test(orders): update .gitignore -->
