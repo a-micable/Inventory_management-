@@ -20,3 +20,5 @@
 <!-- 2025-06-20T08:50:21 feat(workers): move business logic to service layer -->
 
 <!-- 2025-06-21T08:15:30 fix(auth): add integration tests for auth flow -->
+
+<!-- 2025-06-22T09:41:27 refactor(inventory): update docker compose instructions -->
