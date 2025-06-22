@@ -24,3 +24,5 @@
 <!-- 2025-06-22T09:41:27 refactor(inventory): update docker compose instructions -->
 
 <!-- 2025-06-22T10:00:22 test(orders): update .gitignore -->
+
+<!-- 2025-06-22T12:36:43 docs: handle missing authorization header gracefully -->
