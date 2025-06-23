@@ -28,3 +28,5 @@
 <!-- 2025-06-22T12:36:43 docs: handle missing authorization header gracefully -->
 
 <!-- 2025-06-23T15:54:20 chore(reports): extract pagination helpers -->
+
+<!-- 2025-06-23T18:38:51 perf(api): add integration tests for auth flow -->
