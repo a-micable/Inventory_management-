@@ -26,3 +26,5 @@
 <!-- 2025-06-22T10:00:22 test(orders): update .gitignore -->
 
 <!-- 2025-06-22T12:36:43 docs: handle missing authorization header gracefully -->
+
+<!-- 2025-06-23T15:54:20 chore(reports): extract pagination helpers -->
