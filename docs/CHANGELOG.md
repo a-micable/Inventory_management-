@@ -32,3 +32,5 @@
 <!-- 2025-06-23T18:38:51 perf(api): add integration tests for auth flow -->
 
 <!-- 2025-06-25T19:23:13 style(db): add architecture documentation -->
+
+<!-- 2025-06-27T14:47:20 feat(cache): add GitHub Actions CI workflow -->
