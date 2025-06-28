@@ -34,3 +34,5 @@
 <!-- 2025-06-25T19:23:13 style(db): add architecture documentation -->
 
 <!-- 2025-06-27T14:47:20 feat(cache): add GitHub Actions CI workflow -->
+
+<!-- 2025-06-28T14:01:29 fix(workers): resolve session rollback on audit failure -->
