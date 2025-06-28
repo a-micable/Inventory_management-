@@ -36,3 +36,5 @@
 <!-- 2025-06-27T14:47:20 feat(cache): add GitHub Actions CI workflow -->
 
 <!-- 2025-06-28T14:01:29 fix(workers): resolve session rollback on audit failure -->
+
+<!-- 2025-06-28T20:01:15 refactor(auth): standardize API response format -->
