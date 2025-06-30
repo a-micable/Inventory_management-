@@ -38,3 +38,5 @@
 <!-- 2025-06-28T14:01:29 fix(workers): resolve session rollback on audit failure -->
 
 <!-- 2025-06-28T20:01:15 refactor(auth): standardize API response format -->
+
+<!-- 2025-06-30T08:35:18 test(inventory): improve test factory helpers -->
