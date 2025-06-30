@@ -42,3 +42,5 @@
 <!-- 2025-06-30T08:35:18 test(inventory): improve test factory helpers -->
 
 <!-- 2025-06-30T11:25:38 docs: add migration guide -->
+
+<!-- 2025-06-30T13:50:03 chore(warehouses): update docker base image -->
