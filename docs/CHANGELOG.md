@@ -44,3 +44,5 @@
 <!-- 2025-06-30T11:25:38 docs: add migration guide -->
 
 <!-- 2025-06-30T13:50:03 chore(warehouses): update docker base image -->
+
+<!-- 2025-07-01T16:15:58 perf(reports): correct warehouse code normalization -->
