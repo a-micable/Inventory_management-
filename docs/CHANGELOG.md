@@ -52,3 +52,5 @@
 <!-- 2025-07-02T10:10:48 feat(db): add schema validation tests -->
 
 <!-- 2025-07-02T10:47:26 fix(cache): add environment variable reference -->
+
+<!-- 2025-07-02T12:55:30 refactor(workers): add GitHub Actions CI workflow -->
