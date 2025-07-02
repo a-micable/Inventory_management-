@@ -50,3 +50,5 @@
 <!-- 2025-07-01T17:47:31 style(api): extract pagination helpers -->
 
 <!-- 2025-07-02T10:10:48 feat(db): add schema validation tests -->
+
+<!-- 2025-07-02T10:47:26 fix(cache): add environment variable reference -->
