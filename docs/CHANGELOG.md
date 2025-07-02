@@ -48,3 +48,5 @@
 <!-- 2025-07-01T16:15:58 perf(reports): correct warehouse code normalization -->
 
 <!-- 2025-07-01T17:47:31 style(api): extract pagination helpers -->
+
+<!-- 2025-07-02T10:10:48 feat(db): add schema validation tests -->
