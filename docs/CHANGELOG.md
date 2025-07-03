@@ -54,3 +54,5 @@
 <!-- 2025-07-02T10:47:26 fix(cache): add environment variable reference -->
 
 <!-- 2025-07-02T12:55:30 refactor(workers): add GitHub Actions CI workflow -->
+
+<!-- 2025-07-03T08:13:19 test(auth): fix pagination offset for empty results -->
