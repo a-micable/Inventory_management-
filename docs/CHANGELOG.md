@@ -60,3 +60,5 @@
 <!-- 2025-07-03T10:09:51 docs: move business logic to service layer -->
 
 <!-- 2025-07-06T11:53:26 chore(orders): improve test factory helpers -->
+
+<!-- fix fix:core @ 2025-07-07 -->
