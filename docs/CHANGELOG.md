@@ -62,3 +62,5 @@
 <!-- 2025-07-06T11:53:26 chore(orders): improve test factory helpers -->
 
 <!-- fix fix:core @ 2025-07-07 -->
+
+<!-- 2025-07-10T08:10:50 perf(warehouses): add migration guide -->
