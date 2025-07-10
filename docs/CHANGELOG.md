@@ -64,3 +64,5 @@
 <!-- fix fix:core @ 2025-07-07 -->
 
 <!-- 2025-07-10T08:10:50 perf(warehouses): add migration guide -->
+
+<!-- 2025-07-10T14:55:47 style(reports): add Makefile targets -->
