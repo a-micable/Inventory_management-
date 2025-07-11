@@ -68,3 +68,5 @@
 <!-- 2025-07-10T14:55:47 style(reports): add Makefile targets -->
 
 <!-- 2025-07-11T10:00:26 feat(api): resolve session rollback on audit failure -->
+
+<!-- 2025-07-11T15:22:37 fix(db): reorganize schema modules by domain -->
