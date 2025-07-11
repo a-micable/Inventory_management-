@@ -70,3 +70,5 @@
 <!-- 2025-07-11T10:00:26 feat(api): resolve session rollback on audit failure -->
 
 <!-- 2025-07-11T15:22:37 fix(db): reorganize schema modules by domain -->
+
+<!-- 2025-07-11T17:40:43 refactor(cache): increase coverage for validators -->
