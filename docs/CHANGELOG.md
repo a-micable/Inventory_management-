@@ -74,3 +74,5 @@
 <!-- 2025-07-11T17:40:43 refactor(cache): increase coverage for validators -->
 
 <!-- 2025-07-13T10:09:14 test(workers): update README with quick start guide -->
+
+<!-- 2025-07-14T15:01:47 docs: configure ruff linter -->
