@@ -78,3 +78,5 @@
 <!-- 2025-07-14T15:01:47 docs: configure ruff linter -->
 
 <!-- 2025-07-16T12:56:28 chore(inventory): handle duplicate SKU conflict properly -->
+
+<!-- 2025-07-16T13:16:20 perf(orders): move business logic to service layer -->
