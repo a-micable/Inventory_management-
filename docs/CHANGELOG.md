@@ -76,3 +76,5 @@
 <!-- 2025-07-13T10:09:14 test(workers): update README with quick start guide -->
 
 <!-- 2025-07-14T15:01:47 docs: configure ruff linter -->
+
+<!-- 2025-07-16T12:56:28 chore(inventory): handle duplicate SKU conflict properly -->
