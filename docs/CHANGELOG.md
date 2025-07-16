@@ -80,3 +80,5 @@
 <!-- 2025-07-16T12:56:28 chore(inventory): handle duplicate SKU conflict properly -->
 
 <!-- 2025-07-16T13:16:20 perf(orders): move business logic to service layer -->
+
+<!-- 2025-07-16T14:54:06 style(warehouses): add inventory adjustment tests -->
