@@ -82,3 +82,5 @@
 <!-- 2025-07-16T13:16:20 perf(orders): move business logic to service layer -->
 
 <!-- 2025-07-16T14:54:06 style(warehouses): add inventory adjustment tests -->
+
+<!-- 2025-07-17T20:25:00 feat(reports): add migration guide -->
