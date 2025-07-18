@@ -84,3 +84,5 @@
 <!-- 2025-07-16T14:54:06 style(warehouses): add inventory adjustment tests -->
 
 <!-- 2025-07-17T20:25:00 feat(reports): add migration guide -->
+
+<!-- 2025-07-18T11:53:58 fix(api): add .env.example -->
