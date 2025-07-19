@@ -86,3 +86,5 @@
 <!-- 2025-07-17T20:25:00 feat(reports): add migration guide -->
 
 <!-- 2025-07-18T11:53:58 fix(api): add .env.example -->
+
+<!-- 2025-07-19T13:27:20 refactor(db): correct negative stock validation -->
