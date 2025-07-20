@@ -90,3 +90,5 @@
 <!-- 2025-07-19T13:27:20 refactor(db): correct negative stock validation -->
 
 <!-- 2025-07-19T19:47:23 test(cache): extract repository base class -->
+
+<!-- 2025-07-20T20:13:40 docs: add schema validation tests -->
