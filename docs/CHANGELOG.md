@@ -92,3 +92,5 @@
 <!-- 2025-07-19T19:47:23 test(cache): extract repository base class -->
 
 <!-- 2025-07-20T20:13:40 docs: add schema validation tests -->
+
+<!-- 2025-07-20T20:44:07 chore(auth): update docker compose instructions -->
