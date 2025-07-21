@@ -94,3 +94,5 @@
 <!-- 2025-07-20T20:13:40 docs: add schema validation tests -->
 
 <!-- 2025-07-20T20:44:07 chore(auth): update docker compose instructions -->
+
+<!-- 2025-07-21T15:06:33 perf(inventory): configure pytest asyncio mode -->
