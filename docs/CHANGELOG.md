@@ -96,3 +96,5 @@
 <!-- 2025-07-20T20:44:07 chore(auth): update docker compose instructions -->
 
 <!-- 2025-07-21T15:06:33 perf(inventory): configure pytest asyncio mode -->
+
+<!-- 2025-07-22T13:49:35 style(orders): correct warehouse code normalization -->
