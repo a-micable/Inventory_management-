@@ -98,3 +98,5 @@
 <!-- 2025-07-21T15:06:33 perf(inventory): configure pytest asyncio mode -->
 
 <!-- 2025-07-22T13:49:35 style(orders): correct warehouse code normalization -->
+
+<!-- 2025-07-23T11:24:36 feat(warehouses): move business logic to service layer -->
