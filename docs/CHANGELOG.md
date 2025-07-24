@@ -100,3 +100,5 @@
 <!-- 2025-07-22T13:49:35 style(orders): correct warehouse code normalization -->
 
 <!-- 2025-07-23T11:24:36 feat(warehouses): move business logic to service layer -->
+
+<!-- fix fix:models @ 2025-07-24 -->
