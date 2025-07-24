@@ -102,3 +102,5 @@
 <!-- 2025-07-23T11:24:36 feat(warehouses): move business logic to service layer -->
 
 <!-- fix fix:models @ 2025-07-24 -->
+
+<!-- 2025-07-24T13:54:35 fix(reports): increase coverage for validators -->
