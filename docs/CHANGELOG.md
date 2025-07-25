@@ -106,3 +106,5 @@
 <!-- 2025-07-24T13:54:35 fix(reports): increase coverage for validators -->
 
 <!-- 2025-07-24T15:45:58 refactor(api): document RBAC permission matrix -->
+
+<!-- 2025-07-25T09:56:44 test(db): add .env.example -->
