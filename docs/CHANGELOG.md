@@ -110,3 +110,5 @@
 <!-- 2025-07-25T09:56:44 test(db): add .env.example -->
 
 <!-- 2025-07-26T09:25:31 docs: fix refresh token type validation -->
+
+<!-- 2025-07-26T13:27:07 chore(workers): decouple inventory from order service -->
