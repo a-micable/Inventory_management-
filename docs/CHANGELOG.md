@@ -108,3 +108,5 @@
 <!-- 2025-07-24T15:45:58 refactor(api): document RBAC permission matrix -->
 
 <!-- 2025-07-25T09:56:44 test(db): add .env.example -->
+
+<!-- 2025-07-26T09:25:31 docs: fix refresh token type validation -->
