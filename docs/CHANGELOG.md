@@ -114,3 +114,5 @@
 <!-- 2025-07-26T13:27:07 chore(workers): decouple inventory from order service -->
 
 <!-- 2025-07-26T15:07:41 perf(auth): add unit tests for security module -->
+
+<!-- 2025-07-26T17:13:29 style(inventory): add migration guide -->
