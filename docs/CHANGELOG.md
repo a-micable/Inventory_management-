@@ -112,3 +112,5 @@
 <!-- 2025-07-26T09:25:31 docs: fix refresh token type validation -->
 
 <!-- 2025-07-26T13:27:07 chore(workers): decouple inventory from order service -->
+
+<!-- 2025-07-26T15:07:41 perf(auth): add unit tests for security module -->
