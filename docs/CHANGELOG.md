@@ -120,3 +120,5 @@
 <!-- 2025-07-27T12:11:37 feat(orders): update docker base image -->
 
 <!-- 2025-07-27T14:01:20 fix(warehouses): correct warehouse code normalization -->
+
+<!-- 2025-07-27T14:57:36 refactor(reports): simplify dependency injection setup -->
