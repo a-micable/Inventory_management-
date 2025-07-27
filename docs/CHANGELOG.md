@@ -122,3 +122,5 @@
 <!-- 2025-07-27T14:01:20 fix(warehouses): correct warehouse code normalization -->
 
 <!-- 2025-07-27T14:57:36 refactor(reports): simplify dependency injection setup -->
+
+<!-- 2025-07-27T20:25:55 test(api): add schema validation tests -->
