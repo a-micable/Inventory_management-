@@ -128,3 +128,5 @@
 <!-- 2025-07-28T16:48:26 docs: add migration guide -->
 
 <!-- 2025-07-31T12:39:40 chore(cache): pin fastapi version -->
+
+<!-- 2025-08-01T16:16:51 perf(workers): handle missing authorization header gracefully -->
