@@ -132,3 +132,5 @@
 <!-- 2025-08-01T16:16:51 perf(workers): handle missing authorization header gracefully -->
 
 <!-- 2025-08-04T09:17:49 style(auth): extract repository base class -->
+
+<!-- 2025-08-04T15:11:03 feat(inventory): improve test factory helpers -->
