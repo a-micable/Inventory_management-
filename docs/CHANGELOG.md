@@ -130,3 +130,5 @@
 <!-- 2025-07-31T12:39:40 chore(cache): pin fastapi version -->
 
 <!-- 2025-08-01T16:16:51 perf(workers): handle missing authorization header gracefully -->
+
+<!-- 2025-08-04T09:17:49 style(auth): extract repository base class -->
