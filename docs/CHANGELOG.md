@@ -134,3 +134,5 @@
 <!-- 2025-08-04T09:17:49 style(auth): extract repository base class -->
 
 <!-- 2025-08-04T15:11:03 feat(inventory): improve test factory helpers -->
+
+<!-- 2025-08-04T18:06:57 fix(orders): add architecture documentation -->
