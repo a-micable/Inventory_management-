@@ -136,3 +136,5 @@
 <!-- 2025-08-04T15:11:03 feat(inventory): improve test factory helpers -->
 
 <!-- 2025-08-04T18:06:57 fix(orders): add architecture documentation -->
+
+<!-- 2025-08-05T08:02:19 refactor(warehouses): configure ruff linter -->
