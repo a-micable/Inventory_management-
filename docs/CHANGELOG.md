@@ -138,3 +138,5 @@
 <!-- 2025-08-04T18:06:57 fix(orders): add architecture documentation -->
 
 <!-- 2025-08-05T08:02:19 refactor(warehouses): configure ruff linter -->
+
+<!-- 2025-08-06T11:29:40 test(reports): fix transfer status transition guard -->
