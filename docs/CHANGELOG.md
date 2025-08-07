@@ -144,3 +144,5 @@
 <!-- 2025-08-07T11:33:26 docs: move business logic to service layer -->
 
 <!-- 2025-08-07T14:12:58 chore(db): add transfer status tests -->
+
+<!-- 2025-08-07T14:55:41 perf(cache): document API endpoints -->
