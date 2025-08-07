@@ -142,3 +142,5 @@
 <!-- 2025-08-06T11:29:40 test(reports): fix transfer status transition guard -->
 
 <!-- 2025-08-07T11:33:26 docs: move business logic to service layer -->
+
+<!-- 2025-08-07T14:12:58 chore(db): add transfer status tests -->
