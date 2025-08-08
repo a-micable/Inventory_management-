@@ -148,3 +148,5 @@
 <!-- 2025-08-07T14:55:41 perf(cache): document API endpoints -->
 
 <!-- 2025-08-08T14:08:02 style(workers): update dependencies -->
+
+<!-- 2025-08-08T20:57:38 feat(auth): fix order subtotal calculation precision -->
