@@ -146,3 +146,5 @@
 <!-- 2025-08-07T14:12:58 chore(db): add transfer status tests -->
 
 <!-- 2025-08-07T14:55:41 perf(cache): document API endpoints -->
+
+<!-- 2025-08-08T14:08:02 style(workers): update dependencies -->
