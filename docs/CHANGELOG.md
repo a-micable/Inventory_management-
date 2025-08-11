@@ -154,3 +154,5 @@
 <!-- 2025-08-10T15:02:08 fix(inventory): standardize API response format -->
 
 <!-- 2025-08-11T09:30:50 refactor(orders): improve test factory helpers -->
+
+<!-- 2025-08-11T11:55:10 test(warehouses): document API endpoints -->
