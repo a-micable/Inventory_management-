@@ -152,3 +152,5 @@
 <!-- 2025-08-08T20:57:38 feat(auth): fix order subtotal calculation precision -->
 
 <!-- 2025-08-10T15:02:08 fix(inventory): standardize API response format -->
+
+<!-- 2025-08-11T09:30:50 refactor(orders): improve test factory helpers -->
