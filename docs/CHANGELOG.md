@@ -156,3 +156,5 @@
 <!-- 2025-08-11T09:30:50 refactor(orders): improve test factory helpers -->
 
 <!-- 2025-08-11T11:55:10 test(warehouses): document API endpoints -->
+
+<!-- 2025-08-12T11:11:35 docs: configure ruff linter -->
