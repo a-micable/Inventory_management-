@@ -158,3 +158,5 @@
 <!-- 2025-08-11T11:55:10 test(warehouses): document API endpoints -->
 
 <!-- 2025-08-12T11:11:35 docs: configure ruff linter -->
+
+<!-- 2025-08-13T19:55:30 chore(api): fix cache key collision for inventory reports -->
