@@ -160,3 +160,5 @@
 <!-- 2025-08-12T11:11:35 docs: configure ruff linter -->
 
 <!-- 2025-08-13T19:55:30 chore(api): fix cache key collision for inventory reports -->
+
+<!-- 2025-08-13T20:44:06 perf(db): reorganize schema modules by domain -->
