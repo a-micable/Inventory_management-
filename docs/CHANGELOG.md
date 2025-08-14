@@ -162,3 +162,5 @@
 <!-- 2025-08-13T19:55:30 chore(api): fix cache key collision for inventory reports -->
 
 <!-- 2025-08-13T20:44:06 perf(db): reorganize schema modules by domain -->
+
+<!-- 2025-08-14T12:06:37 style(cache): add tenant context unit tests -->
