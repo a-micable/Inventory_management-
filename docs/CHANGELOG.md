@@ -164,3 +164,5 @@
 <!-- 2025-08-13T20:44:06 perf(db): reorganize schema modules by domain -->
 
 <!-- 2025-08-14T12:06:37 style(cache): add tenant context unit tests -->
+
+<!-- 2025-08-14T19:28:35 feat(workers): document RBAC permission matrix -->
