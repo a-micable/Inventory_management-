@@ -166,3 +166,5 @@
 <!-- 2025-08-14T12:06:37 style(cache): add tenant context unit tests -->
 
 <!-- 2025-08-14T19:28:35 feat(workers): document RBAC permission matrix -->
+
+<!-- 2025-08-16T17:38:47 fix(auth): configure ruff linter -->
