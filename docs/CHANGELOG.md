@@ -168,3 +168,5 @@
 <!-- 2025-08-14T19:28:35 feat(workers): document RBAC permission matrix -->
 
 <!-- 2025-08-16T17:38:47 fix(auth): configure ruff linter -->
+
+<!-- 2025-08-17T10:05:39 refactor(inventory): correct warehouse code normalization -->
