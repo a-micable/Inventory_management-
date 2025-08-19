@@ -172,3 +172,5 @@
 <!-- 2025-08-17T10:05:39 refactor(inventory): correct warehouse code normalization -->
 
 <!-- 2025-08-18T20:39:29 test(orders): extract pagination helpers -->
+
+<!-- 2025-08-19T09:42:55 docs: add unit tests for security module -->
