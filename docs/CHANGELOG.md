@@ -174,3 +174,5 @@
 <!-- 2025-08-18T20:39:29 test(orders): extract pagination helpers -->
 
 <!-- 2025-08-19T09:42:55 docs: add unit tests for security module -->
+
+<!-- 2025-08-19T10:24:34 chore(reports): add environment variable reference -->
