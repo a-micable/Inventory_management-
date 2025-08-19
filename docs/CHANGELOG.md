@@ -176,3 +176,5 @@
 <!-- 2025-08-19T09:42:55 docs: add unit tests for security module -->
 
 <!-- 2025-08-19T10:24:34 chore(reports): add environment variable reference -->
+
+<!-- 2025-08-19T19:33:41 perf(api): configure pytest asyncio mode -->
