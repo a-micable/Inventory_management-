@@ -178,3 +178,5 @@
 <!-- 2025-08-19T10:24:34 chore(reports): add environment variable reference -->
 
 <!-- 2025-08-19T19:33:41 perf(api): configure pytest asyncio mode -->
+
+<!-- fix fix:schemas @ 2025-08-20 -->
