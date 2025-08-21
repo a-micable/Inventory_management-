@@ -180,3 +180,5 @@
 <!-- 2025-08-19T19:33:41 perf(api): configure pytest asyncio mode -->
 
 <!-- fix fix:schemas @ 2025-08-20 -->
+
+<!-- 2025-08-21T10:36:42 style(db): fix cache key collision for inventory reports -->
