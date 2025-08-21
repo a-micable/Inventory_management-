@@ -184,3 +184,5 @@
 <!-- 2025-08-21T10:36:42 style(db): fix cache key collision for inventory reports -->
 
 <!-- 2025-08-21T12:44:48 feat(cache): move business logic to service layer -->
+
+<!-- 2025-08-21T15:13:22 fix(workers): add transfer status tests -->
