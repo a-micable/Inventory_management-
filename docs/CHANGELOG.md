@@ -186,3 +186,5 @@
 <!-- 2025-08-21T12:44:48 feat(cache): move business logic to service layer -->
 
 <!-- 2025-08-21T15:13:22 fix(workers): add transfer status tests -->
+
+<!-- 2025-08-24T16:23:39 refactor(auth): document RBAC permission matrix -->
