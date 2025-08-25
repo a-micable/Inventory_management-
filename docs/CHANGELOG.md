@@ -192,3 +192,5 @@
 <!-- 2025-08-25T09:15:46 test(inventory): add Makefile targets -->
 
 <!-- 2025-08-25T11:47:30 docs: resolve race condition in stock reservation -->
+
+<!-- 2025-08-25T12:02:45 chore(warehouses): extract pagination helpers -->
