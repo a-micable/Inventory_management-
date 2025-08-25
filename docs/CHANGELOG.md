@@ -188,3 +188,5 @@
 <!-- 2025-08-21T15:13:22 fix(workers): add transfer status tests -->
 
 <!-- 2025-08-24T16:23:39 refactor(auth): document RBAC permission matrix -->
+
+<!-- 2025-08-25T09:15:46 test(inventory): add Makefile targets -->
