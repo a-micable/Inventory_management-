@@ -194,3 +194,5 @@
 <!-- 2025-08-25T11:47:30 docs: resolve race condition in stock reservation -->
 
 <!-- 2025-08-25T12:02:45 chore(warehouses): extract pagination helpers -->
+
+<!-- 2025-08-26T13:07:47 perf(reports): add integration tests for auth flow -->
