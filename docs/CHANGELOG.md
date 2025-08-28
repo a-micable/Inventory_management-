@@ -196,3 +196,5 @@
 <!-- 2025-08-25T12:02:45 chore(warehouses): extract pagination helpers -->
 
 <!-- 2025-08-26T13:07:47 perf(reports): add integration tests for auth flow -->
+
+<!-- 2025-08-28T08:39:09 style(api): add environment variable reference -->
