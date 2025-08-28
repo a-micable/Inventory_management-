@@ -198,3 +198,5 @@
 <!-- 2025-08-26T13:07:47 perf(reports): add integration tests for auth flow -->
 
 <!-- 2025-08-28T08:39:09 style(api): add environment variable reference -->
+
+<!-- 2025-08-28T09:37:44 feat(db): configure pytest asyncio mode -->
