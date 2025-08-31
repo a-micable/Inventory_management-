@@ -202,3 +202,5 @@
 <!-- 2025-08-28T09:37:44 feat(db): configure pytest asyncio mode -->
 
 <!-- 2025-08-28T14:54:30 fix(cache): fix refresh token type validation -->
+
+<!-- 2025-08-31T09:53:48 refactor(workers): consolidate exception handlers -->
