@@ -204,3 +204,5 @@
 <!-- 2025-08-28T14:54:30 fix(cache): fix refresh token type validation -->
 
 <!-- 2025-08-31T09:53:48 refactor(workers): consolidate exception handlers -->
+
+<!-- 2025-09-01T18:15:42 test(auth): add schema validation tests -->
