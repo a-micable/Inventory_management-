@@ -206,3 +206,5 @@
 <!-- 2025-08-31T09:53:48 refactor(workers): consolidate exception handlers -->
 
 <!-- 2025-09-01T18:15:42 test(auth): add schema validation tests -->
+
+<!-- 2025-09-02T12:42:05 docs: update docker compose instructions -->
