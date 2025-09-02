@@ -210,3 +210,5 @@
 <!-- 2025-09-02T12:42:05 docs: update docker compose instructions -->
 
 <!-- 2025-09-02T18:40:38 chore(orders): update alembic configuration -->
+
+<!-- 2025-09-02T20:08:48 perf(warehouses): handle missing authorization header gracefully -->
