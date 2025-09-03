@@ -214,3 +214,5 @@
 <!-- 2025-09-02T20:08:48 perf(warehouses): handle missing authorization header gracefully -->
 
 <!-- 2025-09-03T09:26:26 style(reports): extract pagination helpers -->
+
+<!-- 2025-09-03T14:28:56 feat(api): add RBAC permission tests -->
