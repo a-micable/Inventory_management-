@@ -212,3 +212,5 @@
 <!-- 2025-09-02T18:40:38 chore(orders): update alembic configuration -->
 
 <!-- 2025-09-02T20:08:48 perf(warehouses): handle missing authorization header gracefully -->
+
+<!-- 2025-09-03T09:26:26 style(reports): extract pagination helpers -->
