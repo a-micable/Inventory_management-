@@ -218,3 +218,5 @@
 <!-- 2025-09-03T14:28:56 feat(api): add RBAC permission tests -->
 
 <!-- 2025-09-05T18:12:39 fix(db): update docker compose instructions -->
+
+<!-- 2025-09-06T11:52:58 refactor(cache): pin fastapi version -->
