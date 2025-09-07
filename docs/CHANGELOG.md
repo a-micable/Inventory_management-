@@ -220,3 +220,5 @@
 <!-- 2025-09-05T18:12:39 fix(db): update docker compose instructions -->
 
 <!-- 2025-09-06T11:52:58 refactor(cache): pin fastapi version -->
+
+<!-- 2025-09-07T18:46:43 test(workers): correct enum serialization in audit logs -->
