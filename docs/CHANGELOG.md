@@ -222,3 +222,5 @@
 <!-- 2025-09-06T11:52:58 refactor(cache): pin fastapi version -->
 
 <!-- 2025-09-07T18:46:43 test(workers): correct enum serialization in audit logs -->
+
+<!-- 2025-09-07T20:12:09 docs: extract number generation utilities -->
