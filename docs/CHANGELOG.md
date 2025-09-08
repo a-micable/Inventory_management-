@@ -224,3 +224,5 @@
 <!-- 2025-09-07T18:46:43 test(workers): correct enum serialization in audit logs -->
 
 <!-- 2025-09-07T20:12:09 docs: extract number generation utilities -->
+
+<!-- 2025-09-08T20:33:24 chore(inventory): add integration tests for auth flow -->
