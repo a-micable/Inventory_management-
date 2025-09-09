@@ -228,3 +228,5 @@
 <!-- 2025-09-08T20:33:24 chore(inventory): add integration tests for auth flow -->
 
 <!-- 2025-09-09T14:21:52 perf(orders): add architecture documentation -->
+
+<!-- 2025-09-09T17:51:22 style(warehouses): update alembic configuration -->
