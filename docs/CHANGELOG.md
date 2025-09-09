@@ -226,3 +226,5 @@
 <!-- 2025-09-07T20:12:09 docs: extract number generation utilities -->
 
 <!-- 2025-09-08T20:33:24 chore(inventory): add integration tests for auth flow -->
+
+<!-- 2025-09-09T14:21:52 perf(orders): add architecture documentation -->
