@@ -230,3 +230,5 @@
 <!-- 2025-09-09T14:21:52 perf(orders): add architecture documentation -->
 
 <!-- 2025-09-09T17:51:22 style(warehouses): update alembic configuration -->
+
+<!-- 2025-09-09T18:53:55 feat(reports): handle duplicate SKU conflict properly -->
