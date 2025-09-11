@@ -232,3 +232,5 @@
 <!-- 2025-09-09T17:51:22 style(warehouses): update alembic configuration -->
 
 <!-- 2025-09-09T18:53:55 feat(reports): handle duplicate SKU conflict properly -->
+
+<!-- 2025-09-11T15:01:39 fix(api): extract number generation utilities -->
