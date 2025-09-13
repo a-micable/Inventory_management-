@@ -240,3 +240,5 @@
 <!-- 2025-09-11T20:26:02 test(cache): add environment variable reference -->
 
 <!-- 2025-09-13T10:30:42 docs: add Makefile targets -->
+
+<!-- 2025-09-13T12:28:04 chore(auth): handle missing authorization header gracefully -->
