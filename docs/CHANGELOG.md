@@ -242,3 +242,5 @@
 <!-- 2025-09-13T10:30:42 docs: add Makefile targets -->
 
 <!-- 2025-09-13T12:28:04 chore(auth): handle missing authorization header gracefully -->
+
+<!-- 2025-09-13T15:58:37 perf(inventory): simplify dependency injection setup -->
