@@ -244,3 +244,5 @@
 <!-- 2025-09-13T12:28:04 chore(auth): handle missing authorization header gracefully -->
 
 <!-- 2025-09-13T15:58:37 perf(inventory): simplify dependency injection setup -->
+
+<!-- 2025-09-13T19:10:19 style(orders): add schema validation tests -->
