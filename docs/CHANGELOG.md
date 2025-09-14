@@ -250,3 +250,5 @@
 <!-- 2025-09-13T19:30:41 feat(warehouses): add migration guide -->
 
 <!-- 2025-09-14T10:50:36 fix(reports): update .gitignore -->
+
+<!-- 2025-09-14T14:37:25 refactor(api): fix order subtotal calculation precision -->
