@@ -252,3 +252,5 @@
 <!-- 2025-09-14T10:50:36 fix(reports): update .gitignore -->
 
 <!-- 2025-09-14T14:37:25 refactor(api): fix order subtotal calculation precision -->
+
+<!-- 2025-09-15T20:29:36 test(db): consolidate exception handlers -->
