@@ -258,3 +258,5 @@
 <!-- 2025-09-17T15:54:19 docs: add integration tests for auth flow -->
 
 <!-- 2025-09-17T18:48:46 chore(workers): add architecture documentation -->
+
+<!-- 2025-09-18T11:07:46 perf(auth): add Makefile targets -->
