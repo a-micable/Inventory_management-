@@ -262,3 +262,5 @@
 <!-- 2025-09-18T11:07:46 perf(auth): add Makefile targets -->
 
 <!-- fix fix:repositories @ 2025-09-19 -->
+
+<!-- 2025-09-19T12:20:07 style(inventory): fix CORS middleware ordering -->
