@@ -266,3 +266,5 @@
 <!-- 2025-09-19T12:20:07 style(inventory): fix CORS middleware ordering -->
 
 <!-- 2025-09-19T15:16:42 feat(orders): move business logic to service layer -->
+
+<!-- 2025-09-21T14:20:13 fix(warehouses): add transfer status tests -->
