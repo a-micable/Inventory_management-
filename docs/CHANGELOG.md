@@ -268,3 +268,5 @@
 <!-- 2025-09-19T15:16:42 feat(orders): move business logic to service layer -->
 
 <!-- 2025-09-21T14:20:13 fix(warehouses): add transfer status tests -->
+
+<!-- 2025-09-22T17:24:52 refactor(reports): update README with quick start guide -->
