@@ -270,3 +270,5 @@
 <!-- 2025-09-21T14:20:13 fix(warehouses): add transfer status tests -->
 
 <!-- 2025-09-22T17:24:52 refactor(reports): update README with quick start guide -->
+
+<!-- 2025-09-23T08:06:38 test(api): configure ruff linter -->
