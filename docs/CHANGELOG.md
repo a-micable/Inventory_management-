@@ -272,3 +272,5 @@
 <!-- 2025-09-22T17:24:52 refactor(reports): update README with quick start guide -->
 
 <!-- 2025-09-23T08:06:38 test(api): configure ruff linter -->
+
+<!-- 2025-09-23T13:39:44 docs: correct datetime timezone handling in reports -->
