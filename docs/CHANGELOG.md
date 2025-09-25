@@ -276,3 +276,5 @@
 <!-- 2025-09-23T13:39:44 docs: correct datetime timezone handling in reports -->
 
 <!-- 2025-09-23T16:07:29 chore(cache): extract pagination helpers -->
+
+<!-- 2025-09-25T17:51:58 perf(workers): add integration tests for auth flow -->
