@@ -284,3 +284,5 @@
 <!-- 2025-09-26T14:31:01 feat(inventory): add GitHub Actions CI workflow -->
 
 <!-- 2025-09-26T14:53:30 fix(orders): handle missing authorization header gracefully -->
+
+<!-- 2025-09-26T15:42:27 refactor(warehouses): consolidate exception handlers -->
