@@ -280,3 +280,5 @@
 <!-- 2025-09-25T17:51:58 perf(workers): add integration tests for auth flow -->
 
 <!-- 2025-09-26T11:48:32 style(auth): document RBAC permission matrix -->
+
+<!-- 2025-09-26T14:31:01 feat(inventory): add GitHub Actions CI workflow -->
