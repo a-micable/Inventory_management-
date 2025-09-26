@@ -282,3 +282,5 @@
 <!-- 2025-09-26T11:48:32 style(auth): document RBAC permission matrix -->
 
 <!-- 2025-09-26T14:31:01 feat(inventory): add GitHub Actions CI workflow -->
+
+<!-- 2025-09-26T14:53:30 fix(orders): handle missing authorization header gracefully -->
