@@ -286,3 +286,5 @@
 <!-- 2025-09-26T14:53:30 fix(orders): handle missing authorization header gracefully -->
 
 <!-- 2025-09-26T15:42:27 refactor(warehouses): consolidate exception handlers -->
+
+<!-- 2025-09-27T16:00:33 test(reports): increase coverage for validators -->
