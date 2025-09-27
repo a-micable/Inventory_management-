@@ -288,3 +288,5 @@
 <!-- 2025-09-26T15:42:27 refactor(warehouses): consolidate exception handlers -->
 
 <!-- 2025-09-27T16:00:33 test(reports): increase coverage for validators -->
+
+<!-- 2025-09-27T19:37:48 docs: document API endpoints -->
