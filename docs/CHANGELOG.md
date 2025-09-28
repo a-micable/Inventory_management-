@@ -292,3 +292,5 @@
 <!-- 2025-09-27T19:37:48 docs: document API endpoints -->
 
 <!-- 2025-09-28T09:49:17 chore(db): add .env.example -->
+
+<!-- 2025-09-28T10:37:27 perf(cache): correct negative stock validation -->
