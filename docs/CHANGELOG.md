@@ -290,3 +290,5 @@
 <!-- 2025-09-27T16:00:33 test(reports): increase coverage for validators -->
 
 <!-- 2025-09-27T19:37:48 docs: document API endpoints -->
+
+<!-- 2025-09-28T09:49:17 chore(db): add .env.example -->
