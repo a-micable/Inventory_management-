@@ -296,3 +296,5 @@
 <!-- 2025-09-28T10:37:27 perf(cache): correct negative stock validation -->
 
 <!-- 2025-09-30T16:42:40 style(workers): improve audit service interface -->
+
+<!-- 2025-09-30T18:43:37 feat(auth): add schema validation tests -->
