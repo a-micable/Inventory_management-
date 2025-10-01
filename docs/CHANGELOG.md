@@ -298,3 +298,5 @@
 <!-- 2025-09-30T16:42:40 style(workers): improve audit service interface -->
 
 <!-- 2025-09-30T18:43:37 feat(auth): add schema validation tests -->
+
+<!-- 2025-10-01T11:47:05 fix(inventory): add deployment checklist -->
