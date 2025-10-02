@@ -302,3 +302,5 @@
 <!-- 2025-10-01T11:47:05 fix(inventory): add deployment checklist -->
 
 <!-- 2025-10-02T18:25:52 refactor(orders): add .env.example -->
+
+<!-- 2025-10-02T18:34:10 test(warehouses): fix refresh token type validation -->
