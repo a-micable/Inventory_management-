@@ -300,3 +300,5 @@
 <!-- 2025-09-30T18:43:37 feat(auth): add schema validation tests -->
 
 <!-- 2025-10-01T11:47:05 fix(inventory): add deployment checklist -->
+
+<!-- 2025-10-02T18:25:52 refactor(orders): add .env.example -->
