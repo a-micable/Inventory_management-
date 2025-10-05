@@ -308,3 +308,5 @@
 <!-- 2025-10-03T08:14:18 docs: reorganize schema modules by domain -->
 
 <!-- 2025-10-04T13:23:27 chore(api): improve test factory helpers -->
+
+<!-- 2025-10-05T08:53:42 perf(db): add deployment checklist -->
