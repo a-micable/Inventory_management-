@@ -312,3 +312,5 @@
 <!-- 2025-10-05T08:53:42 perf(db): add deployment checklist -->
 
 <!-- fix fix:services @ 2025-10-05 -->
+
+<!-- 2025-10-05T16:08:12 style(cache): pin fastapi version -->
