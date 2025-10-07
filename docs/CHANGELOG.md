@@ -316,3 +316,5 @@
 <!-- 2025-10-05T16:08:12 style(cache): pin fastapi version -->
 
 <!-- 2025-10-06T18:27:44 feat(workers): fix order subtotal calculation precision -->
+
+<!-- 2025-10-07T14:35:53 fix(auth): reorganize schema modules by domain -->
