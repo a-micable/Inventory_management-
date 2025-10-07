@@ -320,3 +320,5 @@
 <!-- 2025-10-07T14:35:53 fix(auth): reorganize schema modules by domain -->
 
 <!-- 2025-10-07T16:19:42 refactor(inventory): improve test factory helpers -->
+
+<!-- 2025-10-07T18:26:07 test(orders): add deployment checklist -->
