@@ -318,3 +318,5 @@
 <!-- 2025-10-06T18:27:44 feat(workers): fix order subtotal calculation precision -->
 
 <!-- 2025-10-07T14:35:53 fix(auth): reorganize schema modules by domain -->
+
+<!-- 2025-10-07T16:19:42 refactor(inventory): improve test factory helpers -->
