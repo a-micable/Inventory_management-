@@ -322,3 +322,5 @@
 <!-- 2025-10-07T16:19:42 refactor(inventory): improve test factory helpers -->
 
 <!-- 2025-10-07T18:26:07 test(orders): add deployment checklist -->
+
+<!-- 2025-10-09T17:47:52 docs: configure ruff linter -->
