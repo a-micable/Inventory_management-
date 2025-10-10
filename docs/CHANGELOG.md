@@ -326,3 +326,5 @@
 <!-- 2025-10-09T17:47:52 docs: configure ruff linter -->
 
 <!-- 2025-10-10T13:22:00 chore(reports): correct warehouse code normalization -->
+
+<!-- 2025-10-10T13:57:59 perf(api): extract pagination helpers -->
