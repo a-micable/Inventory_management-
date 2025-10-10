@@ -328,3 +328,5 @@
 <!-- 2025-10-10T13:22:00 chore(reports): correct warehouse code normalization -->
 
 <!-- 2025-10-10T13:57:59 perf(api): extract pagination helpers -->
+
+<!-- 2025-10-10T19:21:14 style(db): improve test factory helpers -->
