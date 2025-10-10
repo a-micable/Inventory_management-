@@ -324,3 +324,5 @@
 <!-- 2025-10-07T18:26:07 test(orders): add deployment checklist -->
 
 <!-- 2025-10-09T17:47:52 docs: configure ruff linter -->
+
+<!-- 2025-10-10T13:22:00 chore(reports): correct warehouse code normalization -->
