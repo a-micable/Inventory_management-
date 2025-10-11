@@ -330,3 +330,5 @@
 <!-- 2025-10-10T13:57:59 perf(api): extract pagination helpers -->
 
 <!-- 2025-10-10T19:21:14 style(db): improve test factory helpers -->
+
+<!-- 2025-10-11T19:20:49 feat(cache): add migration guide -->
