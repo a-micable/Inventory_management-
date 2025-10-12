@@ -332,3 +332,5 @@
 <!-- 2025-10-10T19:21:14 style(db): improve test factory helpers -->
 
 <!-- 2025-10-11T19:20:49 feat(cache): add migration guide -->
+
+<!-- 2025-10-12T14:38:32 fix(workers): add Makefile targets -->
