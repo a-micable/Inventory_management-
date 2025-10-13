@@ -334,3 +334,5 @@
 <!-- 2025-10-11T19:20:49 feat(cache): add migration guide -->
 
 <!-- 2025-10-12T14:38:32 fix(workers): add Makefile targets -->
+
+<!-- 2025-10-13T19:30:45 refactor(auth): resolve session rollback on audit failure -->
