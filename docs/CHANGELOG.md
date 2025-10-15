@@ -338,3 +338,5 @@
 <!-- 2025-10-13T19:30:45 refactor(auth): resolve session rollback on audit failure -->
 
 <!-- 2025-10-15T11:53:59 test(inventory): improve audit service interface -->
+
+<!-- 2025-10-15T17:09:04 docs: add transfer status tests -->
