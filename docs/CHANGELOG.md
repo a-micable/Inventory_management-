@@ -340,3 +340,5 @@
 <!-- 2025-10-15T11:53:59 test(inventory): improve audit service interface -->
 
 <!-- 2025-10-15T17:09:04 docs: add transfer status tests -->
+
+<!-- 2025-10-16T08:11:16 chore(warehouses): document RBAC permission matrix -->
