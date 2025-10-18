@@ -344,3 +344,5 @@
 <!-- 2025-10-16T08:11:16 chore(warehouses): document RBAC permission matrix -->
 
 <!-- 2025-10-17T18:54:34 perf(reports): add GitHub Actions CI workflow -->
+
+<!-- 2025-10-18T14:44:31 style(api): fix CORS middleware ordering -->
