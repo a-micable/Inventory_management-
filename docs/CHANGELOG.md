@@ -346,3 +346,5 @@
 <!-- 2025-10-17T18:54:34 perf(reports): add GitHub Actions CI workflow -->
 
 <!-- 2025-10-18T14:44:31 style(api): fix CORS middleware ordering -->
+
+<!-- 2025-10-18T16:29:26 feat(db): simplify dependency injection setup -->
