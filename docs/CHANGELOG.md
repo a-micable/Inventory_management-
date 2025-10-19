@@ -348,3 +348,5 @@
 <!-- 2025-10-18T14:44:31 style(api): fix CORS middleware ordering -->
 
 <!-- 2025-10-18T16:29:26 feat(db): simplify dependency injection setup -->
+
+<!-- 2025-10-19T20:10:04 fix(cache): increase coverage for validators -->
