@@ -350,3 +350,5 @@
 <!-- 2025-10-18T16:29:26 feat(db): simplify dependency injection setup -->
 
 <!-- 2025-10-19T20:10:04 fix(cache): increase coverage for validators -->
+
+<!-- 2025-10-20T13:57:34 refactor(workers): document API endpoints -->
