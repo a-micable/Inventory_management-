@@ -356,3 +356,5 @@
 <!-- 2025-10-22T08:54:26 test(auth): add Makefile targets -->
 
 <!-- 2025-10-25T14:21:20 docs: correct negative stock validation -->
+
+<!-- fix fix:auth @ 2025-10-25 -->
