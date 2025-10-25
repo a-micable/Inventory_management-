@@ -358,3 +358,5 @@
 <!-- 2025-10-25T14:21:20 docs: correct negative stock validation -->
 
 <!-- fix fix:auth @ 2025-10-25 -->
+
+<!-- 2025-10-25T16:27:42 chore(orders): standardize API response format -->
