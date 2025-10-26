@@ -360,3 +360,5 @@
 <!-- fix fix:auth @ 2025-10-25 -->
 
 <!-- 2025-10-25T16:27:42 chore(orders): standardize API response format -->
+
+<!-- 2025-10-26T18:32:25 perf(warehouses): add schema validation tests -->
