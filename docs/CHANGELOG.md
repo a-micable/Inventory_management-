@@ -362,3 +362,5 @@
 <!-- 2025-10-25T16:27:42 chore(orders): standardize API response format -->
 
 <!-- 2025-10-26T18:32:25 perf(warehouses): add schema validation tests -->
+
+<!-- 2025-10-29T17:18:44 style(reports): add architecture documentation -->
