@@ -364,3 +364,5 @@
 <!-- 2025-10-26T18:32:25 perf(warehouses): add schema validation tests -->
 
 <!-- 2025-10-29T17:18:44 style(reports): add architecture documentation -->
+
+<!-- 2025-10-30T10:19:00 feat(api): pin fastapi version -->
