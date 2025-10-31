@@ -366,3 +366,5 @@
 <!-- 2025-10-29T17:18:44 style(reports): add architecture documentation -->
 
 <!-- 2025-10-30T10:19:00 feat(api): pin fastapi version -->
+
+<!-- 2025-10-31T09:43:23 fix(db): fix CORS middleware ordering -->
