@@ -368,3 +368,5 @@
 <!-- 2025-10-30T10:19:00 feat(api): pin fastapi version -->
 
 <!-- 2025-10-31T09:43:23 fix(db): fix CORS middleware ordering -->
+
+<!-- 2025-10-31T14:04:42 refactor(cache): move business logic to service layer -->
