@@ -372,3 +372,5 @@
 <!-- 2025-10-31T14:04:42 refactor(cache): move business logic to service layer -->
 
 <!-- 2025-10-31T18:57:53 test(workers): add inventory adjustment tests -->
+
+<!-- 2025-11-01T19:08:05 docs: add architecture documentation -->
