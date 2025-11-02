@@ -378,3 +378,5 @@
 <!-- 2025-11-02T09:48:17 chore(inventory): add GitHub Actions CI workflow -->
 
 <!-- fix fix:routers @ 2025-11-02 -->
+
+<!-- 2025-11-02T18:47:43 perf(orders): resolve race condition in stock reservation -->
