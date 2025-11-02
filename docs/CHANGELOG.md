@@ -374,3 +374,5 @@
 <!-- 2025-10-31T18:57:53 test(workers): add inventory adjustment tests -->
 
 <!-- 2025-11-01T19:08:05 docs: add architecture documentation -->
+
+<!-- 2025-11-02T09:48:17 chore(inventory): add GitHub Actions CI workflow -->
