@@ -380,3 +380,5 @@
 <!-- fix fix:routers @ 2025-11-02 -->
 
 <!-- 2025-11-02T18:47:43 perf(orders): resolve race condition in stock reservation -->
+
+<!-- 2025-11-03T09:32:41 style(warehouses): standardize API response format -->
