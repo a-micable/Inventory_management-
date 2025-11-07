@@ -384,3 +384,5 @@
 <!-- 2025-11-03T09:32:41 style(warehouses): standardize API response format -->
 
 <!-- 2025-11-06T13:40:45 feat(reports): add transfer status tests -->
+
+<!-- 2025-11-07T08:54:30 fix(api): document API endpoints -->
