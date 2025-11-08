@@ -388,3 +388,5 @@
 <!-- 2025-11-07T08:54:30 fix(api): document API endpoints -->
 
 <!-- 2025-11-07T17:33:18 refactor(db): update alembic configuration -->
+
+<!-- 2025-11-08T19:09:45 test(cache): fix tenant context not cleared after request -->
