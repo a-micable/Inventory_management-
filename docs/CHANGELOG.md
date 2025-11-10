@@ -390,3 +390,5 @@
 <!-- 2025-11-07T17:33:18 refactor(db): update alembic configuration -->
 
 <!-- 2025-11-08T19:09:45 test(cache): fix tenant context not cleared after request -->
+
+<!-- 2025-11-10T13:42:43 docs: simplify dependency injection setup -->
