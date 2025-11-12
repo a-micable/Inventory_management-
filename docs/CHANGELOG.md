@@ -394,3 +394,5 @@
 <!-- 2025-11-10T13:42:43 docs: simplify dependency injection setup -->
 
 <!-- 2025-11-10T20:37:44 chore(auth): improve test factory helpers -->
+
+<!-- 2025-11-12T17:36:42 perf(inventory): add environment variable reference -->
