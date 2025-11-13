@@ -396,3 +396,5 @@
 <!-- 2025-11-10T20:37:44 chore(auth): improve test factory helpers -->
 
 <!-- 2025-11-12T17:36:42 perf(inventory): add environment variable reference -->
+
+<!-- 2025-11-13T12:00:36 style(orders): update dependencies -->
