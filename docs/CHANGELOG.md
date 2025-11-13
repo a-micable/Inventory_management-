@@ -398,3 +398,5 @@
 <!-- 2025-11-12T17:36:42 perf(inventory): add environment variable reference -->
 
 <!-- 2025-11-13T12:00:36 style(orders): update dependencies -->
+
+<!-- 2025-11-13T12:12:07 feat(warehouses): correct enum serialization in audit logs -->
