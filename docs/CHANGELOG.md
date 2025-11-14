@@ -404,3 +404,5 @@
 <!-- 2025-11-13T18:05:54 fix(reports): extract repository base class -->
 
 <!-- 2025-11-13T20:35:23 refactor(api): add tenant context unit tests -->
+
+<!-- 2025-11-14T11:09:41 test(db): add environment variable reference -->
