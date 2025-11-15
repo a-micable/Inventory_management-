@@ -406,3 +406,5 @@
 <!-- 2025-11-13T20:35:23 refactor(api): add tenant context unit tests -->
 
 <!-- 2025-11-14T11:09:41 test(db): add environment variable reference -->
+
+<!-- 2025-11-15T09:09:47 docs: update .gitignore -->
