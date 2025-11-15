@@ -408,3 +408,5 @@
 <!-- 2025-11-14T11:09:41 test(db): add environment variable reference -->
 
 <!-- 2025-11-15T09:09:47 docs: update .gitignore -->
+
+<!-- 2025-11-15T12:32:34 chore(workers): correct enum serialization in audit logs -->
