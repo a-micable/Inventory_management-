@@ -410,3 +410,5 @@
 <!-- 2025-11-15T09:09:47 docs: update .gitignore -->
 
 <!-- 2025-11-15T12:32:34 chore(workers): correct enum serialization in audit logs -->
+
+<!-- 2025-11-16T19:15:19 perf(auth): move business logic to service layer -->
