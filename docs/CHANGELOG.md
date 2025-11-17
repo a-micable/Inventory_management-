@@ -414,3 +414,5 @@
 <!-- 2025-11-16T19:15:19 perf(auth): move business logic to service layer -->
 
 <!-- 2025-11-17T13:25:44 style(inventory): add schema validation tests -->
+
+<!-- 2025-11-17T15:35:48 feat(orders): add deployment checklist -->
