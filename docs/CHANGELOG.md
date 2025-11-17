@@ -412,3 +412,5 @@
 <!-- 2025-11-15T12:32:34 chore(workers): correct enum serialization in audit logs -->
 
 <!-- 2025-11-16T19:15:19 perf(auth): move business logic to service layer -->
+
+<!-- 2025-11-17T13:25:44 style(inventory): add schema validation tests -->
