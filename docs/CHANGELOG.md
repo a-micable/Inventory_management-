@@ -418,3 +418,5 @@
 <!-- 2025-11-17T15:35:48 feat(orders): add deployment checklist -->
 
 <!-- 2025-11-19T08:11:47 fix(warehouses): update dependencies -->
+
+<!-- 2025-11-19T20:42:55 refactor(reports): fix cache key collision for inventory reports -->
