@@ -416,3 +416,5 @@
 <!-- 2025-11-17T13:25:44 style(inventory): add schema validation tests -->
 
 <!-- 2025-11-17T15:35:48 feat(orders): add deployment checklist -->
+
+<!-- 2025-11-19T08:11:47 fix(warehouses): update dependencies -->
