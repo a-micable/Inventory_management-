@@ -422,3 +422,5 @@
 <!-- 2025-11-19T20:42:55 refactor(reports): fix cache key collision for inventory reports -->
 
 <!-- 2025-11-20T10:12:08 test(api): move business logic to service layer -->
+
+<!-- 2025-11-20T18:06:53 docs: add schema validation tests -->
