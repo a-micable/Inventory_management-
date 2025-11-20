@@ -424,3 +424,5 @@
 <!-- 2025-11-20T10:12:08 test(api): move business logic to service layer -->
 
 <!-- 2025-11-20T18:06:53 docs: add schema validation tests -->
+
+<!-- 2025-11-20T18:36:12 chore(cache): document API endpoints -->
