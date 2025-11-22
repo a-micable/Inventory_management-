@@ -428,3 +428,5 @@
 <!-- 2025-11-20T18:36:12 chore(cache): document API endpoints -->
 
 <!-- fix fix:middleware @ 2025-11-22 -->
+
+<!-- 2025-11-22T18:24:43 perf(workers): add GitHub Actions CI workflow -->
