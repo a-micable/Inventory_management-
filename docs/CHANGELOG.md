@@ -426,3 +426,5 @@
 <!-- 2025-11-20T18:06:53 docs: add schema validation tests -->
 
 <!-- 2025-11-20T18:36:12 chore(cache): document API endpoints -->
+
+<!-- fix fix:middleware @ 2025-11-22 -->
