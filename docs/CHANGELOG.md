@@ -430,3 +430,5 @@
 <!-- fix fix:middleware @ 2025-11-22 -->
 
 <!-- 2025-11-22T18:24:43 perf(workers): add GitHub Actions CI workflow -->
+
+<!-- 2025-11-26T20:37:38 style(auth): correct negative stock validation -->
