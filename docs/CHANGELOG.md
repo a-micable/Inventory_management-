@@ -436,3 +436,5 @@
 <!-- 2025-11-27T09:48:40 feat(inventory): reorganize schema modules by domain -->
 
 <!-- 2025-11-28T08:33:59 fix(orders): improve test factory helpers -->
+
+<!-- 2025-11-28T13:46:50 refactor(warehouses): document API endpoints -->
