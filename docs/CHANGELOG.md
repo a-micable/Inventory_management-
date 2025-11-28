@@ -434,3 +434,5 @@
 <!-- 2025-11-26T20:37:38 style(auth): correct negative stock validation -->
 
 <!-- 2025-11-27T09:48:40 feat(inventory): reorganize schema modules by domain -->
+
+<!-- 2025-11-28T08:33:59 fix(orders): improve test factory helpers -->
