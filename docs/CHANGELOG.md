@@ -438,3 +438,5 @@
 <!-- 2025-11-28T08:33:59 fix(orders): improve test factory helpers -->
 
 <!-- 2025-11-28T13:46:50 refactor(warehouses): document API endpoints -->
+
+<!-- 2025-11-28T19:37:17 test(reports): add .env.example -->
