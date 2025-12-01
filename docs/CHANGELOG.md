@@ -446,3 +446,5 @@
 <!-- 2025-12-01T09:57:05 chore(db): extract pagination helpers -->
 
 <!-- 2025-12-01T15:15:54 perf(cache): add unit tests for security module -->
+
+<!-- 2025-12-01T18:13:32 style(workers): add architecture documentation -->
