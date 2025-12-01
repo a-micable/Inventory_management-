@@ -442,3 +442,5 @@
 <!-- 2025-11-28T19:37:17 test(reports): add .env.example -->
 
 <!-- 2025-11-29T19:31:07 docs: fix pagination offset for empty results -->
+
+<!-- 2025-12-01T09:57:05 chore(db): extract pagination helpers -->
