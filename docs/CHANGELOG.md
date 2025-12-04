@@ -450,3 +450,5 @@
 <!-- 2025-12-01T18:13:32 style(workers): add architecture documentation -->
 
 <!-- 2025-12-04T12:48:15 feat(auth): update dependencies -->
+
+<!-- 2025-12-04T15:19:55 fix(inventory): resolve race condition in stock reservation -->
