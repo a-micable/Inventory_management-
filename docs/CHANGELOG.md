@@ -452,3 +452,5 @@
 <!-- 2025-12-04T12:48:15 feat(auth): update dependencies -->
 
 <!-- 2025-12-04T15:19:55 fix(inventory): resolve race condition in stock reservation -->
+
+<!-- 2025-12-04T19:38:30 refactor(orders): simplify dependency injection setup -->
