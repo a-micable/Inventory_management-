@@ -458,3 +458,5 @@
 <!-- 2025-12-05T09:43:14 test(warehouses): add integration tests for auth flow -->
 
 <!-- 2025-12-05T13:10:23 docs: document RBAC permission matrix -->
+
+<!-- 2025-12-05T13:21:48 chore(api): configure pytest asyncio mode -->
