@@ -456,3 +456,5 @@
 <!-- 2025-12-04T19:38:30 refactor(orders): simplify dependency injection setup -->
 
 <!-- 2025-12-05T09:43:14 test(warehouses): add integration tests for auth flow -->
+
+<!-- 2025-12-05T13:10:23 docs: document RBAC permission matrix -->
