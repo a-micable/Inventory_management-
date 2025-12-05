@@ -460,3 +460,5 @@
 <!-- 2025-12-05T13:10:23 docs: document RBAC permission matrix -->
 
 <!-- 2025-12-05T13:21:48 chore(api): configure pytest asyncio mode -->
+
+<!-- 2025-12-05T13:42:47 perf(db): resolve session rollback on audit failure -->
