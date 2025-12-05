@@ -464,3 +464,5 @@
 <!-- 2025-12-05T13:42:47 perf(db): resolve session rollback on audit failure -->
 
 <!-- 2025-12-05T14:26:46 style(cache): reorganize schema modules by domain -->
+
+<!-- 2025-12-05T16:38:27 feat(workers): add order lifecycle test coverage -->
