@@ -454,3 +454,5 @@
 <!-- 2025-12-04T15:19:55 fix(inventory): resolve race condition in stock reservation -->
 
 <!-- 2025-12-04T19:38:30 refactor(orders): simplify dependency injection setup -->
+
+<!-- 2025-12-05T09:43:14 test(warehouses): add integration tests for auth flow -->
