@@ -468,3 +468,5 @@
 <!-- 2025-12-05T16:38:27 feat(workers): add order lifecycle test coverage -->
 
 <!-- 2025-12-07T19:09:27 fix(auth): update docker compose instructions -->
+
+<!-- 2025-12-08T13:19:52 refactor(inventory): configure pytest asyncio mode -->
