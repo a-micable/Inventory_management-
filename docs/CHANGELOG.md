@@ -472,3 +472,5 @@
 <!-- 2025-12-08T13:19:52 refactor(inventory): configure pytest asyncio mode -->
 
 <!-- 2025-12-11T09:09:48 test(orders): correct negative stock validation -->
+
+<!-- 2025-12-11T19:19:44 docs: simplify dependency injection setup -->
