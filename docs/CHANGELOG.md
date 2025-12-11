@@ -470,3 +470,5 @@
 <!-- 2025-12-07T19:09:27 fix(auth): update docker compose instructions -->
 
 <!-- 2025-12-08T13:19:52 refactor(inventory): configure pytest asyncio mode -->
+
+<!-- 2025-12-11T09:09:48 test(orders): correct negative stock validation -->
