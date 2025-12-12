@@ -474,3 +474,5 @@
 <!-- 2025-12-11T09:09:48 test(orders): correct negative stock validation -->
 
 <!-- 2025-12-11T19:19:44 docs: simplify dependency injection setup -->
+
+<!-- 2025-12-12T11:29:35 chore(reports): add tenant context unit tests -->
