@@ -476,3 +476,5 @@
 <!-- 2025-12-11T19:19:44 docs: simplify dependency injection setup -->
 
 <!-- 2025-12-12T11:29:35 chore(reports): add tenant context unit tests -->
+
+<!-- 2025-12-13T20:57:50 perf(api): add migration guide -->
