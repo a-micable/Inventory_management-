@@ -480,3 +480,5 @@
 <!-- 2025-12-13T20:57:50 perf(api): add migration guide -->
 
 <!-- 2025-12-14T08:22:19 style(db): configure pytest asyncio mode -->
+
+<!-- 2025-12-14T15:49:23 feat(cache): fix tenant context not cleared after request -->
