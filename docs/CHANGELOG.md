@@ -484,3 +484,5 @@
 <!-- 2025-12-14T15:49:23 feat(cache): fix tenant context not cleared after request -->
 
 <!-- 2025-12-15T15:21:11 fix(workers): standardize API response format -->
+
+<!-- fix fix:dependencies @ 2025-12-16 -->
