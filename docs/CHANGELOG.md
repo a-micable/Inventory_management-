@@ -488,3 +488,5 @@
 <!-- fix fix:dependencies @ 2025-12-16 -->
 
 <!-- 2025-12-17T13:21:35 refactor(auth): increase coverage for validators -->
+
+<!-- 2025-12-17T17:28:26 test(inventory): update README with quick start guide -->
