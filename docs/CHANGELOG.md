@@ -490,3 +490,5 @@
 <!-- 2025-12-17T13:21:35 refactor(auth): increase coverage for validators -->
 
 <!-- 2025-12-17T17:28:26 test(inventory): update README with quick start guide -->
+
+<!-- 2025-12-18T16:42:19 docs: pin fastapi version -->
