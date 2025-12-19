@@ -494,3 +494,5 @@
 <!-- 2025-12-18T16:42:19 docs: pin fastapi version -->
 
 <!-- 2025-12-19T10:28:34 chore(warehouses): fix refresh token type validation -->
+
+<!-- 2025-12-19T17:26:17 perf(reports): simplify dependency injection setup -->
