@@ -496,3 +496,5 @@
 <!-- 2025-12-19T10:28:34 chore(warehouses): fix refresh token type validation -->
 
 <!-- 2025-12-19T17:26:17 perf(reports): simplify dependency injection setup -->
+
+<!-- 2025-12-20T09:06:15 style(api): add integration tests for auth flow -->
