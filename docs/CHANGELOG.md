@@ -498,3 +498,5 @@
 <!-- 2025-12-19T17:26:17 perf(reports): simplify dependency injection setup -->
 
 <!-- 2025-12-20T09:06:15 style(api): add integration tests for auth flow -->
+
+<!-- 2025-12-21T15:05:38 feat(db): update docker compose instructions -->
