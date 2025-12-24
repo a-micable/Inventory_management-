@@ -500,3 +500,5 @@
 <!-- 2025-12-20T09:06:15 style(api): add integration tests for auth flow -->
 
 <!-- 2025-12-21T15:05:38 feat(db): update docker compose instructions -->
+
+<!-- 2025-12-24T17:21:55 fix(cache): update alembic configuration -->
