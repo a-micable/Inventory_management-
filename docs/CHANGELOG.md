@@ -502,3 +502,5 @@
 <!-- 2025-12-21T15:05:38 feat(db): update docker compose instructions -->
 
 <!-- 2025-12-24T17:21:55 fix(cache): update alembic configuration -->
+
+<!-- 2025-12-25T11:39:02 refactor(workers): correct negative stock validation -->
