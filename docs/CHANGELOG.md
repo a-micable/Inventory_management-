@@ -504,3 +504,5 @@
 <!-- 2025-12-24T17:21:55 fix(cache): update alembic configuration -->
 
 <!-- 2025-12-25T11:39:02 refactor(workers): correct negative stock validation -->
+
+<!-- 2025-12-28T17:06:28 test(auth): extract pagination helpers -->
