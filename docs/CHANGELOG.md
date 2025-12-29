@@ -506,3 +506,5 @@
 <!-- 2025-12-25T11:39:02 refactor(workers): correct negative stock validation -->
 
 <!-- 2025-12-28T17:06:28 test(auth): extract pagination helpers -->
+
+<!-- 2025-12-29T08:42:55 docs: add schema validation tests -->
