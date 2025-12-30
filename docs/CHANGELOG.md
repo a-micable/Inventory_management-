@@ -508,3 +508,5 @@
 <!-- 2025-12-28T17:06:28 test(auth): extract pagination helpers -->
 
 <!-- 2025-12-29T08:42:55 docs: add schema validation tests -->
+
+<!-- 2025-12-30T18:28:58 chore(orders): add deployment checklist -->
