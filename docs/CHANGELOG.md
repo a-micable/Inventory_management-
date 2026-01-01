@@ -510,3 +510,5 @@
 <!-- 2025-12-29T08:42:55 docs: add schema validation tests -->
 
 <!-- 2025-12-30T18:28:58 chore(orders): add deployment checklist -->
+
+<!-- 2026-01-01T09:25:55 perf(warehouses): update docker base image -->
