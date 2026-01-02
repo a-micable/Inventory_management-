@@ -514,3 +514,5 @@
 <!-- 2026-01-01T09:25:55 perf(warehouses): update docker base image -->
 
 <!-- 2026-01-02T09:47:04 style(reports): correct enum serialization in audit logs -->
+
+<!-- 2026-01-02T17:18:06 feat(api): consolidate exception handlers -->
