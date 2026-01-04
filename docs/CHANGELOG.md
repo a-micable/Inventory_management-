@@ -516,3 +516,5 @@
 <!-- 2026-01-02T09:47:04 style(reports): correct enum serialization in audit logs -->
 
 <!-- 2026-01-02T17:18:06 feat(api): consolidate exception handlers -->
+
+<!-- 2026-01-04T11:24:26 fix(db): add RBAC permission tests -->
