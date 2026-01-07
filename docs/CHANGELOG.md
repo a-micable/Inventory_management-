@@ -522,3 +522,5 @@
 <!-- 2026-01-04T16:58:17 refactor(cache): add environment variable reference -->
 
 <!-- 2026-01-06T20:44:11 test(workers): configure pytest asyncio mode -->
+
+<!-- 2026-01-07T08:22:14 docs: handle duplicate SKU conflict properly -->
