@@ -526,3 +526,5 @@
 <!-- 2026-01-07T08:22:14 docs: handle duplicate SKU conflict properly -->
 
 <!-- 2026-01-07T20:30:29 chore(inventory): decouple inventory from order service -->
+
+<!-- 2026-01-08T08:39:04 perf(orders): add transfer status tests -->
