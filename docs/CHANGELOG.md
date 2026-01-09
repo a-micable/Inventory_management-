@@ -532,3 +532,5 @@
 <!-- 2026-01-09T11:41:09 style(warehouses): update README with quick start guide -->
 
 <!-- 2026-01-09T15:26:03 feat(reports): update alembic configuration -->
+
+<!-- 2026-01-09T18:22:03 fix(api): fix CORS middleware ordering -->
