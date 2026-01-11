@@ -534,3 +534,5 @@
 <!-- 2026-01-09T15:26:03 feat(reports): update alembic configuration -->
 
 <!-- 2026-01-09T18:22:03 fix(api): fix CORS middleware ordering -->
+
+<!-- 2026-01-11T10:59:18 refactor(db): standardize API response format -->
