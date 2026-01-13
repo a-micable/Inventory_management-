@@ -540,3 +540,5 @@
 <!-- 2026-01-12T08:35:26 test(cache): add unit tests for security module -->
 
 <!-- 2026-01-13T11:37:13 docs: document RBAC permission matrix -->
+
+<!-- 2026-01-13T16:22:27 chore(auth): configure ruff linter -->
