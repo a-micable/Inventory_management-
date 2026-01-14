@@ -542,3 +542,5 @@
 <!-- 2026-01-13T11:37:13 docs: document RBAC permission matrix -->
 
 <!-- 2026-01-13T16:22:27 chore(auth): configure ruff linter -->
+
+<!-- 2026-01-14T08:38:59 perf(inventory): resolve race condition in stock reservation -->
