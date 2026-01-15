@@ -544,3 +544,5 @@
 <!-- 2026-01-13T16:22:27 chore(auth): configure ruff linter -->
 
 <!-- 2026-01-14T08:38:59 perf(inventory): resolve race condition in stock reservation -->
+
+<!-- 2026-01-15T17:20:48 style(orders): extract repository base class -->
