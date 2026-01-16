@@ -546,3 +546,5 @@
 <!-- 2026-01-14T08:38:59 perf(inventory): resolve race condition in stock reservation -->
 
 <!-- 2026-01-15T17:20:48 style(orders): extract repository base class -->
+
+<!-- 2026-01-16T12:05:15 feat(warehouses): add schema validation tests -->
