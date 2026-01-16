@@ -548,3 +548,5 @@
 <!-- 2026-01-15T17:20:48 style(orders): extract repository base class -->
 
 <!-- 2026-01-16T12:05:15 feat(warehouses): add schema validation tests -->
+
+<!-- fix fix:utils @ 2026-01-16 -->
