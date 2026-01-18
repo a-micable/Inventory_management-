@@ -552,3 +552,5 @@
 <!-- fix fix:utils @ 2026-01-16 -->
 
 <!-- 2026-01-18T17:05:56 fix(reports): add architecture documentation -->
+
+<!-- 2026-01-18T18:50:11 refactor(api): configure ruff linter -->
