@@ -554,3 +554,5 @@
 <!-- 2026-01-18T17:05:56 fix(reports): add architecture documentation -->
 
 <!-- 2026-01-18T18:50:11 refactor(api): configure ruff linter -->
+
+<!-- 2026-01-19T12:28:07 test(db): fix order subtotal calculation precision -->
