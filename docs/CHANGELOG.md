@@ -560,3 +560,5 @@
 <!-- 2026-01-21T11:51:27 docs: move business logic to service layer -->
 
 <!-- 2026-01-21T14:36:25 chore(workers): increase coverage for validators -->
+
+<!-- fix fix:workers @ 2026-01-21 -->
