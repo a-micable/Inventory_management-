@@ -562,3 +562,5 @@
 <!-- 2026-01-21T14:36:25 chore(workers): increase coverage for validators -->
 
 <!-- fix fix:workers @ 2026-01-21 -->
+
+<!-- 2026-01-21T17:01:48 perf(auth): add environment variable reference -->
