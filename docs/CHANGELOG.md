@@ -556,3 +556,5 @@
 <!-- 2026-01-18T18:50:11 refactor(api): configure ruff linter -->
 
 <!-- 2026-01-19T12:28:07 test(db): fix order subtotal calculation precision -->
+
+<!-- 2026-01-21T11:51:27 docs: move business logic to service layer -->
