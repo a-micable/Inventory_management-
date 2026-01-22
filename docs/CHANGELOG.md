@@ -564,3 +564,5 @@
 <!-- fix fix:workers @ 2026-01-21 -->
 
 <!-- 2026-01-21T17:01:48 perf(auth): add environment variable reference -->
+
+<!-- 2026-01-22T16:13:09 style(inventory): add GitHub Actions CI workflow -->
