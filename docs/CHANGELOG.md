@@ -566,3 +566,5 @@
 <!-- 2026-01-21T17:01:48 perf(auth): add environment variable reference -->
 
 <!-- 2026-01-22T16:13:09 style(inventory): add GitHub Actions CI workflow -->
+
+<!-- 2026-01-25T16:45:20 feat(orders): correct negative stock validation -->
