@@ -570,3 +570,5 @@
 <!-- 2026-01-25T16:45:20 feat(orders): correct negative stock validation -->
 
 <!-- 2026-01-26T14:19:36 fix(warehouses): extract number generation utilities -->
+
+<!-- 2026-01-26T16:35:21 refactor(reports): add transfer status tests -->
