@@ -568,3 +568,5 @@
 <!-- 2026-01-22T16:13:09 style(inventory): add GitHub Actions CI workflow -->
 
 <!-- 2026-01-25T16:45:20 feat(orders): correct negative stock validation -->
+
+<!-- 2026-01-26T14:19:36 fix(warehouses): extract number generation utilities -->
