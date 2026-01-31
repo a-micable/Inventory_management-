@@ -574,3 +574,5 @@
 <!-- 2026-01-26T16:35:21 refactor(reports): add transfer status tests -->
 
 <!-- 2026-01-31T12:22:06 test(api): add environment variable reference -->
+
+<!-- 2026-01-31T16:47:56 docs: add GitHub Actions CI workflow -->
