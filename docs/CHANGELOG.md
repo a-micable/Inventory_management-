@@ -572,3 +572,5 @@
 <!-- 2026-01-26T14:19:36 fix(warehouses): extract number generation utilities -->
 
 <!-- 2026-01-26T16:35:21 refactor(reports): add transfer status tests -->
+
+<!-- 2026-01-31T12:22:06 test(api): add environment variable reference -->
