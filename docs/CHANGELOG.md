@@ -578,3 +578,5 @@
 <!-- 2026-01-31T16:47:56 docs: add GitHub Actions CI workflow -->
 
 <!-- 2026-02-01T12:01:05 chore(cache): fix CORS middleware ordering -->
+
+<!-- 2026-02-02T17:50:39 perf(workers): standardize API response format -->
