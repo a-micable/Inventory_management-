@@ -582,3 +582,5 @@
 <!-- 2026-02-02T17:50:39 perf(workers): standardize API response format -->
 
 <!-- 2026-02-04T11:41:04 style(auth): improve test factory helpers -->
+
+<!-- 2026-02-04T18:24:21 feat(inventory): document API endpoints -->
