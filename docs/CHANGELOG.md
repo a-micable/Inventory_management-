@@ -580,3 +580,5 @@
 <!-- 2026-02-01T12:01:05 chore(cache): fix CORS middleware ordering -->
 
 <!-- 2026-02-02T17:50:39 perf(workers): standardize API response format -->
+
+<!-- 2026-02-04T11:41:04 style(auth): improve test factory helpers -->
