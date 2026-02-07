@@ -586,3 +586,5 @@
 <!-- 2026-02-04T18:24:21 feat(inventory): document API endpoints -->
 
 <!-- 2026-02-04T20:04:29 fix(orders): add GitHub Actions CI workflow -->
+
+<!-- 2026-02-07T08:43:05 refactor(warehouses): fix tenant context not cleared after request -->
