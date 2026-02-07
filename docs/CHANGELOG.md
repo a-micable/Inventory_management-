@@ -588,3 +588,5 @@
 <!-- 2026-02-04T20:04:29 fix(orders): add GitHub Actions CI workflow -->
 
 <!-- 2026-02-07T08:43:05 refactor(warehouses): fix tenant context not cleared after request -->
+
+<!-- 2026-02-07T13:05:52 test(reports): standardize API response format -->
