@@ -590,3 +590,5 @@
 <!-- 2026-02-07T08:43:05 refactor(warehouses): fix tenant context not cleared after request -->
 
 <!-- 2026-02-07T13:05:52 test(reports): standardize API response format -->
+
+<!-- 2026-02-08T08:39:47 docs: add unit tests for security module -->
