@@ -592,3 +592,5 @@
 <!-- 2026-02-07T13:05:52 test(reports): standardize API response format -->
 
 <!-- 2026-02-08T08:39:47 docs: add unit tests for security module -->
+
+<!-- 2026-02-08T17:43:41 chore(db): update docker compose instructions -->
