@@ -594,3 +594,5 @@
 <!-- 2026-02-08T08:39:47 docs: add unit tests for security module -->
 
 <!-- 2026-02-08T17:43:41 chore(db): update docker compose instructions -->
+
+<!-- 2026-02-09T16:01:58 perf(cache): update .gitignore -->
