@@ -596,3 +596,5 @@
 <!-- 2026-02-08T17:43:41 chore(db): update docker compose instructions -->
 
 <!-- 2026-02-09T16:01:58 perf(cache): update .gitignore -->
+
+<!-- 2026-02-10T17:42:51 style(workers): correct negative stock validation -->
