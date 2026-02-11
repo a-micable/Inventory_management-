@@ -598,3 +598,5 @@
 <!-- 2026-02-09T16:01:58 perf(cache): update .gitignore -->
 
 <!-- 2026-02-10T17:42:51 style(workers): correct negative stock validation -->
+
+<!-- 2026-02-11T18:02:19 feat(auth): simplify dependency injection setup -->
