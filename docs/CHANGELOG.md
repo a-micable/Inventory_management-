@@ -602,3 +602,5 @@
 <!-- 2026-02-11T18:02:19 feat(auth): simplify dependency injection setup -->
 
 <!-- 2026-02-13T08:05:47 fix(inventory): add unit tests for security module -->
+
+<!-- 2026-02-13T15:05:30 refactor(orders): add environment variable reference -->
