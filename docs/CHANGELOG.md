@@ -600,3 +600,5 @@
 <!-- 2026-02-10T17:42:51 style(workers): correct negative stock validation -->
 
 <!-- 2026-02-11T18:02:19 feat(auth): simplify dependency injection setup -->
+
+<!-- 2026-02-13T08:05:47 fix(inventory): add unit tests for security module -->
