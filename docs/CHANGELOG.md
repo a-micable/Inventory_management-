@@ -606,3 +606,5 @@
 <!-- 2026-02-13T15:05:30 refactor(orders): add environment variable reference -->
 
 <!-- 2026-02-14T15:58:44 test(warehouses): add Makefile targets -->
+
+<!-- 2026-02-15T13:06:43 docs: handle duplicate SKU conflict properly -->
