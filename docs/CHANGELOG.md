@@ -616,3 +616,5 @@
 <!-- 2026-02-21T13:29:28 style(cache): add migration guide -->
 
 <!-- fix fix:migrations @ 2026-02-22 -->
+
+<!-- 2026-02-22T15:14:54 feat(workers): add Makefile targets -->
