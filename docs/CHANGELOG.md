@@ -618,3 +618,5 @@
 <!-- fix fix:migrations @ 2026-02-22 -->
 
 <!-- 2026-02-22T15:14:54 feat(workers): add Makefile targets -->
+
+<!-- 2026-02-22T19:17:01 fix(auth): correct negative stock validation -->
