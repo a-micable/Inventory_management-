@@ -614,3 +614,5 @@
 <!-- 2026-02-19T09:49:41 perf(db): add transfer status tests -->
 
 <!-- 2026-02-21T13:29:28 style(cache): add migration guide -->
+
+<!-- fix fix:migrations @ 2026-02-22 -->
