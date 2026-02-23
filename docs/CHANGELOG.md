@@ -620,3 +620,5 @@
 <!-- 2026-02-22T15:14:54 feat(workers): add Makefile targets -->
 
 <!-- 2026-02-22T19:17:01 fix(auth): correct negative stock validation -->
+
+<!-- 2026-02-23T11:25:21 refactor(inventory): simplify dependency injection setup -->
