@@ -630,3 +630,5 @@
 <!-- 2026-02-25T12:23:09 chore(reports): update dependencies -->
 
 <!-- 2026-02-25T17:23:30 perf(api): fix CORS middleware ordering -->
+
+<!-- 2026-02-25T20:52:41 style(db): extract number generation utilities -->
