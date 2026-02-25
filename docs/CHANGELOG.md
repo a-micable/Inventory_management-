@@ -628,3 +628,5 @@
 <!-- 2026-02-25T09:46:57 docs: add environment variable reference -->
 
 <!-- 2026-02-25T12:23:09 chore(reports): update dependencies -->
+
+<!-- 2026-02-25T17:23:30 perf(api): fix CORS middleware ordering -->
