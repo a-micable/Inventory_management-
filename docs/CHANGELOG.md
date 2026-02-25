@@ -626,3 +626,5 @@
 <!-- 2026-02-23T16:19:29 test(orders): add inventory adjustment tests -->
 
 <!-- 2026-02-25T09:46:57 docs: add environment variable reference -->
+
+<!-- 2026-02-25T12:23:09 chore(reports): update dependencies -->
