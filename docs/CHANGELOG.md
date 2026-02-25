@@ -624,3 +624,5 @@
 <!-- 2026-02-23T11:25:21 refactor(inventory): simplify dependency injection setup -->
 
 <!-- 2026-02-23T16:19:29 test(orders): add inventory adjustment tests -->
+
+<!-- 2026-02-25T09:46:57 docs: add environment variable reference -->
