@@ -632,3 +632,5 @@
 <!-- 2026-02-25T17:23:30 perf(api): fix CORS middleware ordering -->
 
 <!-- 2026-02-25T20:52:41 style(db): extract number generation utilities -->
+
+<!-- 2026-02-27T09:26:22 feat(cache): add inventory adjustment tests -->
