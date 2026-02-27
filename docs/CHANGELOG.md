@@ -634,3 +634,5 @@
 <!-- 2026-02-25T20:52:41 style(db): extract number generation utilities -->
 
 <!-- 2026-02-27T09:26:22 feat(cache): add inventory adjustment tests -->
+
+<!-- 2026-02-27T09:54:10 fix(workers): add architecture documentation -->
