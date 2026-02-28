@@ -636,3 +636,5 @@
 <!-- 2026-02-27T09:26:22 feat(cache): add inventory adjustment tests -->
 
 <!-- 2026-02-27T09:54:10 fix(workers): add architecture documentation -->
+
+<!-- 2026-02-28T12:36:02 refactor(auth): configure ruff linter -->
