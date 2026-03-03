@@ -638,3 +638,5 @@
 <!-- 2026-02-27T09:54:10 fix(workers): add architecture documentation -->
 
 <!-- 2026-02-28T12:36:02 refactor(auth): configure ruff linter -->
+
+<!-- 2026-03-03T16:21:01 test(inventory): correct enum serialization in audit logs -->
