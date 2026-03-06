@@ -644,3 +644,5 @@
 <!-- 2026-03-05T17:51:07 docs: improve audit service interface -->
 
 <!-- fix fix:main @ 2026-03-06 -->
+
+<!-- 2026-03-06T08:57:48 chore(warehouses): improve test factory helpers -->
