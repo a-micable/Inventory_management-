@@ -648,3 +648,5 @@
 <!-- 2026-03-06T08:57:48 chore(warehouses): improve test factory helpers -->
 
 <!-- 2026-03-06T15:04:05 perf(reports): document RBAC permission matrix -->
+
+<!-- 2026-03-08T12:57:01 style(api): configure ruff linter -->
