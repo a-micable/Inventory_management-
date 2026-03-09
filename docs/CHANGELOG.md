@@ -650,3 +650,5 @@
 <!-- 2026-03-06T15:04:05 perf(reports): document RBAC permission matrix -->
 
 <!-- 2026-03-08T12:57:01 style(api): configure ruff linter -->
+
+<!-- 2026-03-09T16:26:37 feat(db): handle missing authorization header gracefully -->
