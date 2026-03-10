@@ -652,3 +652,5 @@
 <!-- 2026-03-08T12:57:01 style(api): configure ruff linter -->
 
 <!-- 2026-03-09T16:26:37 feat(db): handle missing authorization header gracefully -->
+
+<!-- 2026-03-10T10:40:55 fix(cache): standardize API response format -->
