@@ -654,3 +654,5 @@
 <!-- 2026-03-09T16:26:37 feat(db): handle missing authorization header gracefully -->
 
 <!-- 2026-03-10T10:40:55 fix(cache): standardize API response format -->
+
+<!-- 2026-03-10T11:36:24 refactor(workers): improve test factory helpers -->
