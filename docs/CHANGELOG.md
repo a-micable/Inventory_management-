@@ -658,3 +658,5 @@
 <!-- 2026-03-10T11:36:24 refactor(workers): improve test factory helpers -->
 
 <!-- 2026-03-10T20:19:54 test(auth): add environment variable reference -->
+
+<!-- 2026-03-11T12:49:23 docs: pin fastapi version -->
