@@ -664,3 +664,5 @@
 <!-- 2026-03-12T09:28:10 chore(orders): resolve race condition in stock reservation -->
 
 <!-- 2026-03-12T11:32:35 perf(warehouses): move business logic to service layer -->
+
+<!-- 2026-03-12T15:17:19 style(reports): add tenant context unit tests -->
