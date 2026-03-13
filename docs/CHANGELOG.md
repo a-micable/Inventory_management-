@@ -666,3 +666,5 @@
 <!-- 2026-03-12T11:32:35 perf(warehouses): move business logic to service layer -->
 
 <!-- 2026-03-12T15:17:19 style(reports): add tenant context unit tests -->
+
+<!-- 2026-03-13T12:44:55 feat(api): add architecture documentation -->
