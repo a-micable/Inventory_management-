@@ -668,3 +668,5 @@
 <!-- 2026-03-12T15:17:19 style(reports): add tenant context unit tests -->
 
 <!-- 2026-03-13T12:44:55 feat(api): add architecture documentation -->
+
+<!-- 2026-03-13T14:35:00 fix(db): update alembic configuration -->
