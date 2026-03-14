@@ -672,3 +672,5 @@
 <!-- 2026-03-13T14:35:00 fix(db): update alembic configuration -->
 
 <!-- 2026-03-14T16:08:17 refactor(cache): fix refresh token type validation -->
+
+<!-- 2026-03-14T18:26:18 test(workers): consolidate exception handlers -->
