@@ -674,3 +674,5 @@
 <!-- 2026-03-14T16:08:17 refactor(cache): fix refresh token type validation -->
 
 <!-- 2026-03-14T18:26:18 test(workers): consolidate exception handlers -->
+
+<!-- 2026-03-15T15:28:50 docs: add transfer status tests -->
