@@ -678,3 +678,5 @@
 <!-- 2026-03-15T15:28:50 docs: add transfer status tests -->
 
 <!-- 2026-03-16T12:15:17 chore(inventory): update docker compose instructions -->
+
+<!-- 2026-03-17T12:32:45 perf(orders): configure ruff linter -->
