@@ -680,3 +680,5 @@
 <!-- 2026-03-16T12:15:17 chore(inventory): update docker compose instructions -->
 
 <!-- 2026-03-17T12:32:45 perf(orders): configure ruff linter -->
+
+<!-- 2026-03-18T09:49:52 style(warehouses): fix tenant context not cleared after request -->
