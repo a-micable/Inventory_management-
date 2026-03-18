@@ -684,3 +684,5 @@
 <!-- 2026-03-18T09:49:52 style(warehouses): fix tenant context not cleared after request -->
 
 <!-- 2026-03-18T16:27:53 feat(reports): move business logic to service layer -->
+
+<!-- 2026-03-18T19:24:31 fix(api): add schema validation tests -->
