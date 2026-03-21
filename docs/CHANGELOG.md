@@ -686,3 +686,5 @@
 <!-- 2026-03-18T16:27:53 feat(reports): move business logic to service layer -->
 
 <!-- 2026-03-18T19:24:31 fix(api): add schema validation tests -->
+
+<!-- 2026-03-21T20:58:55 refactor(db): update docker compose instructions -->
