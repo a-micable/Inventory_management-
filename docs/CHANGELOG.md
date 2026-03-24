@@ -688,3 +688,5 @@
 <!-- 2026-03-18T19:24:31 fix(api): add schema validation tests -->
 
 <!-- 2026-03-21T20:58:55 refactor(db): update docker compose instructions -->
+
+<!-- 2026-03-24T16:51:38 test(cache): add Makefile targets -->
