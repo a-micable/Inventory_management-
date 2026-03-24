@@ -690,3 +690,5 @@
 <!-- 2026-03-21T20:58:55 refactor(db): update docker compose instructions -->
 
 <!-- 2026-03-24T16:51:38 test(cache): add Makefile targets -->
+
+<!-- 2026-03-24T20:15:17 docs: fix pagination offset for empty results -->
