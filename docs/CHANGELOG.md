@@ -696,3 +696,5 @@
 <!-- 2026-03-25T10:42:05 chore(auth): extract pagination helpers -->
 
 <!-- 2026-03-27T19:09:56 perf(inventory): add tenant context unit tests -->
+
+<!-- 2026-03-27T19:42:12 style(orders): document API endpoints -->
