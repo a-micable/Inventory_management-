@@ -694,3 +694,5 @@
 <!-- 2026-03-24T20:15:17 docs: fix pagination offset for empty results -->
 
 <!-- 2026-03-25T10:42:05 chore(auth): extract pagination helpers -->
+
+<!-- 2026-03-27T19:09:56 perf(inventory): add tenant context unit tests -->
