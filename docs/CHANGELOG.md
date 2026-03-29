@@ -698,3 +698,5 @@
 <!-- 2026-03-27T19:09:56 perf(inventory): add tenant context unit tests -->
 
 <!-- 2026-03-27T19:42:12 style(orders): document API endpoints -->
+
+<!-- 2026-03-29T10:39:36 feat(warehouses): add .env.example -->
