@@ -702,3 +702,5 @@
 <!-- 2026-03-29T10:39:36 feat(warehouses): add .env.example -->
 
 <!-- 2026-03-29T13:51:07 fix(reports): fix cache key collision for inventory reports -->
+
+<!-- 2026-03-29T16:21:22 refactor(api): standardize API response format -->
