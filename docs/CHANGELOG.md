@@ -700,3 +700,5 @@
 <!-- 2026-03-27T19:42:12 style(orders): document API endpoints -->
 
 <!-- 2026-03-29T10:39:36 feat(warehouses): add .env.example -->
+
+<!-- 2026-03-29T13:51:07 fix(reports): fix cache key collision for inventory reports -->
