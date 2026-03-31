@@ -708,3 +708,5 @@
 <!-- 2026-03-31T11:43:19 test(db): add unit tests for security module -->
 
 <!-- 2026-03-31T14:54:57 docs: add environment variable reference -->
+
+<!-- 2026-03-31T15:06:55 chore(workers): update docker base image -->
