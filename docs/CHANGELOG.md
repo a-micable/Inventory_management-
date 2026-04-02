@@ -710,3 +710,5 @@
 <!-- 2026-03-31T14:54:57 docs: add environment variable reference -->
 
 <!-- 2026-03-31T15:06:55 chore(workers): update docker base image -->
+
+<!-- 2026-04-02T15:40:28 perf(auth): correct enum serialization in audit logs -->
