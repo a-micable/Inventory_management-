@@ -714,3 +714,5 @@
 <!-- 2026-04-02T15:40:28 perf(auth): correct enum serialization in audit logs -->
 
 <!-- 2026-04-03T08:13:17 style(inventory): reorganize schema modules by domain -->
+
+<!-- 2026-04-03T16:02:29 feat(orders): add unit tests for security module -->
