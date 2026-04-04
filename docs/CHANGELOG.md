@@ -716,3 +716,5 @@
 <!-- 2026-04-03T08:13:17 style(inventory): reorganize schema modules by domain -->
 
 <!-- 2026-04-03T16:02:29 feat(orders): add unit tests for security module -->
+
+<!-- 2026-04-04T16:24:29 fix(warehouses): add architecture documentation -->
