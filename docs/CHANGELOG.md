@@ -720,3 +720,5 @@
 <!-- 2026-04-04T16:24:29 fix(warehouses): add architecture documentation -->
 
 <!-- 2026-04-04T20:11:30 refactor(reports): update alembic configuration -->
+
+<!-- fix fix:tests @ 2026-04-05 -->
