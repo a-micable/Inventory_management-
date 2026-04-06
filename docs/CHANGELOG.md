@@ -722,3 +722,5 @@
 <!-- 2026-04-04T20:11:30 refactor(reports): update alembic configuration -->
 
 <!-- fix fix:tests @ 2026-04-05 -->
+
+<!-- 2026-04-06T18:43:53 test(api): fix cache key collision for inventory reports -->
