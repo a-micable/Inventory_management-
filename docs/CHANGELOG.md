@@ -726,3 +726,5 @@
 <!-- 2026-04-06T18:43:53 test(api): fix cache key collision for inventory reports -->
 
 <!-- 2026-04-07T10:40:16 docs: decouple inventory from order service -->
+
+<!-- 2026-04-07T16:46:55 chore(cache): add integration tests for auth flow -->
