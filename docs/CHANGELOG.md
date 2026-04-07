@@ -724,3 +724,5 @@
 <!-- fix fix:tests @ 2026-04-05 -->
 
 <!-- 2026-04-06T18:43:53 test(api): fix cache key collision for inventory reports -->
+
+<!-- 2026-04-07T10:40:16 docs: decouple inventory from order service -->
