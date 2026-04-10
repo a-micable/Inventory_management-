@@ -730,3 +730,5 @@
 <!-- 2026-04-07T16:46:55 chore(cache): add integration tests for auth flow -->
 
 <!-- 2026-04-10T14:14:11 perf(workers): update README with quick start guide -->
+
+<!-- 2026-04-10T16:31:40 style(auth): add GitHub Actions CI workflow -->
