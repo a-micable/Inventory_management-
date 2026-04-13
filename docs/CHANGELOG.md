@@ -734,3 +734,5 @@
 <!-- 2026-04-10T16:31:40 style(auth): add GitHub Actions CI workflow -->
 
 <!-- fix fix:docker @ 2026-04-11 -->
+
+<!-- 2026-04-13T16:56:23 feat(inventory): fix CORS middleware ordering -->
