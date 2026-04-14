@@ -736,3 +736,5 @@
 <!-- fix fix:docker @ 2026-04-11 -->
 
 <!-- 2026-04-13T16:56:23 feat(inventory): fix CORS middleware ordering -->
+
+<!-- 2026-04-14T15:02:37 fix(orders): extract pagination helpers -->
