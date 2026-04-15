@@ -742,3 +742,5 @@
 <!-- 2026-04-14T16:17:52 refactor(warehouses): improve test factory helpers -->
 
 <!-- 2026-04-15T14:21:59 test(reports): update README with quick start guide -->
+
+<!-- 2026-04-15T20:15:37 docs: add GitHub Actions CI workflow -->
