@@ -748,3 +748,5 @@
 <!-- 2026-04-17T08:57:22 chore(db): fix tenant context not cleared after request -->
 
 <!-- 2026-04-17T11:14:01 perf(cache): simplify dependency injection setup -->
+
+<!-- 2026-04-17T17:50:02 style(workers): add schema validation tests -->
