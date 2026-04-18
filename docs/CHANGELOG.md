@@ -750,3 +750,5 @@
 <!-- 2026-04-17T11:14:01 perf(cache): simplify dependency injection setup -->
 
 <!-- 2026-04-17T17:50:02 style(workers): add schema validation tests -->
+
+<!-- 2026-04-18T12:21:17 feat(auth): add environment variable reference -->
