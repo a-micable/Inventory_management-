@@ -756,3 +756,5 @@
 <!-- 2026-04-18T14:46:10 fix(inventory): update alembic configuration -->
 
 <!-- 2026-04-19T15:42:33 refactor(orders): fix refresh token type validation -->
+
+<!-- 2026-04-19T20:11:56 test(warehouses): extract repository base class -->
