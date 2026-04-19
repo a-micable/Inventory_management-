@@ -754,3 +754,5 @@
 <!-- 2026-04-18T12:21:17 feat(auth): add environment variable reference -->
 
 <!-- 2026-04-18T14:46:10 fix(inventory): update alembic configuration -->
+
+<!-- 2026-04-19T15:42:33 refactor(orders): fix refresh token type validation -->
