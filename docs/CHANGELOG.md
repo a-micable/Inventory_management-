@@ -758,3 +758,5 @@
 <!-- 2026-04-19T15:42:33 refactor(orders): fix refresh token type validation -->
 
 <!-- 2026-04-19T20:11:56 test(warehouses): extract repository base class -->
+
+<!-- 2026-04-20T19:33:29 docs: increase coverage for validators -->
