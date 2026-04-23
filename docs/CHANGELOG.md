@@ -762,3 +762,5 @@
 <!-- 2026-04-20T19:33:29 docs: increase coverage for validators -->
 
 <!-- 2026-04-21T16:43:46 chore(api): document API endpoints -->
+
+<!-- 2026-04-23T10:35:03 perf(db): add .env.example -->
