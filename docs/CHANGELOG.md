@@ -764,3 +764,5 @@
 <!-- 2026-04-21T16:43:46 chore(api): document API endpoints -->
 
 <!-- 2026-04-23T10:35:03 perf(db): add .env.example -->
+
+<!-- 2026-04-24T11:21:49 style(cache): fix cache key collision for inventory reports -->
