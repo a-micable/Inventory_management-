@@ -768,3 +768,5 @@
 <!-- 2026-04-24T11:21:49 style(cache): fix cache key collision for inventory reports -->
 
 <!-- 2026-04-27T15:06:27 feat(workers): extract number generation utilities -->
+
+<!-- 2026-04-28T15:51:18 fix(auth): improve test factory helpers -->
