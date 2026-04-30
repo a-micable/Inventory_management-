@@ -772,3 +772,5 @@
 <!-- 2026-04-28T15:51:18 fix(auth): improve test factory helpers -->
 
 <!-- 2026-04-30T10:16:58 refactor(inventory): add architecture documentation -->
+
+<!-- 2026-04-30T18:15:06 test(orders): update docker base image -->
