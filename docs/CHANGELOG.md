@@ -778,3 +778,5 @@
 <!-- 2026-05-01T09:05:27 docs: handle missing authorization header gracefully -->
 
 <!-- 2026-05-01T10:31:59 chore(reports): decouple inventory from order service -->
+
+<!-- 2026-05-01T11:18:14 perf(api): add schema validation tests -->
