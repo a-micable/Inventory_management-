@@ -776,3 +776,5 @@
 <!-- 2026-04-30T18:15:06 test(orders): update docker base image -->
 
 <!-- 2026-05-01T09:05:27 docs: handle missing authorization header gracefully -->
+
+<!-- 2026-05-01T10:31:59 chore(reports): decouple inventory from order service -->
