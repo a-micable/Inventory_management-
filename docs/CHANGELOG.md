@@ -782,3 +782,5 @@
 <!-- 2026-05-01T11:18:14 perf(api): add schema validation tests -->
 
 <!-- 2026-05-01T12:49:51 style(db): document RBAC permission matrix -->
+
+<!-- 2026-05-01T14:16:53 feat(cache): configure ruff linter -->
