@@ -790,3 +790,5 @@
 <!-- 2026-05-02T13:37:35 refactor(auth): reorganize schema modules by domain -->
 
 <!-- 2026-05-02T14:34:47 test(inventory): add order lifecycle test coverage -->
+
+<!-- 2026-05-02T18:51:22 docs: add architecture documentation -->
