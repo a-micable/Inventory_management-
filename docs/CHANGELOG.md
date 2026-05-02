@@ -788,3 +788,5 @@
 <!-- 2026-05-01T19:58:23 fix(workers): correct warehouse code normalization -->
 
 <!-- 2026-05-02T13:37:35 refactor(auth): reorganize schema modules by domain -->
+
+<!-- 2026-05-02T14:34:47 test(inventory): add order lifecycle test coverage -->
