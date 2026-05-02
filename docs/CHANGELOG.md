@@ -786,3 +786,5 @@
 <!-- 2026-05-01T14:16:53 feat(cache): configure ruff linter -->
 
 <!-- 2026-05-01T19:58:23 fix(workers): correct warehouse code normalization -->
+
+<!-- 2026-05-02T13:37:35 refactor(auth): reorganize schema modules by domain -->
