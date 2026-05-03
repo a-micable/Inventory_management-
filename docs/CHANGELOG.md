@@ -792,3 +792,5 @@
 <!-- 2026-05-02T14:34:47 test(inventory): add order lifecycle test coverage -->
 
 <!-- 2026-05-02T18:51:22 docs: add architecture documentation -->
+
+<!-- 2026-05-03T17:37:42 chore(warehouses): update dependencies -->
