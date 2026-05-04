@@ -32,3 +32,5 @@
 
 ## [0.1.0] - 2025-06-15
 - Initial project scaffold
+
+<!-- 2026-05-04T15:58:08 perf(reports): fix transfer status transition guard -->
