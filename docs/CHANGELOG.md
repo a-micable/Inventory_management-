@@ -34,3 +34,5 @@
 - Initial project scaffold
 
 <!-- 2026-05-04T15:58:08 perf(reports): fix transfer status transition guard -->
+
+<!-- 2026-05-04T18:17:49 style(api): consolidate exception handlers -->
