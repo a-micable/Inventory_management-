@@ -36,3 +36,5 @@
 <!-- 2026-05-04T15:58:08 perf(reports): fix transfer status transition guard -->
 
 <!-- 2026-05-04T18:17:49 style(api): consolidate exception handlers -->
+
+<!-- 2026-05-06T16:49:52 feat(db): improve test factory helpers -->
