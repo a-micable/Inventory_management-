@@ -38,3 +38,5 @@
 <!-- 2026-05-04T18:17:49 style(api): consolidate exception handlers -->
 
 <!-- 2026-05-06T16:49:52 feat(db): improve test factory helpers -->
+
+<!-- 2026-05-07T09:29:08 fix(cache): document RBAC permission matrix -->
