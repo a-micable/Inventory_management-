@@ -40,3 +40,5 @@
 <!-- 2026-05-06T16:49:52 feat(db): improve test factory helpers -->
 
 <!-- 2026-05-07T09:29:08 fix(cache): document RBAC permission matrix -->
+
+<!-- 2026-05-07T14:27:43 refactor(workers): pin fastapi version -->
