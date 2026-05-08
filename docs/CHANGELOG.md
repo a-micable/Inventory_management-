@@ -44,3 +44,5 @@
 <!-- 2026-05-07T14:27:43 refactor(workers): pin fastapi version -->
 
 <!-- 2026-05-07T15:05:42 test(auth): fix tenant context not cleared after request -->
+
+<!-- fix fix:docs @ 2026-05-08 -->
