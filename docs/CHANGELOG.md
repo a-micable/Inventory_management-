@@ -48,3 +48,5 @@
 <!-- fix fix:docs @ 2026-05-08 -->
 
 <!-- 2026-05-09T18:41:56 docs: reorganize schema modules by domain -->
+
+<!-- 2026-05-12T20:56:06 chore(orders): add inventory adjustment tests -->
