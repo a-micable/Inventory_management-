@@ -52,3 +52,5 @@
 <!-- 2026-05-12T20:56:06 chore(orders): add inventory adjustment tests -->
 
 <!-- 2026-05-14T18:49:47 perf(warehouses): add migration guide -->
+
+<!-- 2026-05-15T19:03:18 style(reports): update .gitignore -->
