@@ -56,3 +56,5 @@
 <!-- 2026-05-15T19:03:18 style(reports): update .gitignore -->
 
 <!-- 2026-05-16T14:39:43 feat(api): fix refresh token type validation -->
+
+<!-- 2026-05-17T18:48:27 fix(db): reorganize schema modules by domain -->
