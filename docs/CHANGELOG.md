@@ -58,3 +58,5 @@
 <!-- 2026-05-16T14:39:43 feat(api): fix refresh token type validation -->
 
 <!-- 2026-05-17T18:48:27 fix(db): reorganize schema modules by domain -->
+
+<!-- 2026-05-19T14:17:48 refactor(cache): improve test factory helpers -->
