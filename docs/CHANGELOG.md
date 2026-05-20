@@ -60,3 +60,5 @@
 <!-- 2026-05-17T18:48:27 fix(db): reorganize schema modules by domain -->
 
 <!-- 2026-05-19T14:17:48 refactor(cache): improve test factory helpers -->
+
+<!-- 2026-05-20T17:44:56 test(workers): add deployment checklist -->
