@@ -62,3 +62,5 @@
 <!-- 2026-05-19T14:17:48 refactor(cache): improve test factory helpers -->
 
 <!-- 2026-05-20T17:44:56 test(workers): add deployment checklist -->
+
+<!-- 2026-05-21T14:39:47 docs: configure pytest asyncio mode -->
