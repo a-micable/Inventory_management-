@@ -64,3 +64,5 @@
 <!-- 2026-05-20T17:44:56 test(workers): add deployment checklist -->
 
 <!-- 2026-05-21T14:39:47 docs: configure pytest asyncio mode -->
+
+<!-- 2026-05-21T16:20:58 chore(inventory): handle missing authorization header gracefully -->
