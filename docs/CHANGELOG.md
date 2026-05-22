@@ -66,3 +66,5 @@
 <!-- 2026-05-21T14:39:47 docs: configure pytest asyncio mode -->
 
 <!-- 2026-05-21T16:20:58 chore(inventory): handle missing authorization header gracefully -->
+
+<!-- 2026-05-22T16:08:24 perf(orders): move business logic to service layer -->
