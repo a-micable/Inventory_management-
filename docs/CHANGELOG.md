@@ -68,3 +68,5 @@
 <!-- 2026-05-21T16:20:58 chore(inventory): handle missing authorization header gracefully -->
 
 <!-- 2026-05-22T16:08:24 perf(orders): move business logic to service layer -->
+
+<!-- 2026-05-23T20:31:55 style(warehouses): improve test factory helpers -->
