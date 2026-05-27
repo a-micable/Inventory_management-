@@ -72,3 +72,5 @@
 <!-- 2026-05-23T20:31:55 style(warehouses): improve test factory helpers -->
 
 <!-- 2026-05-24T15:39:52 feat(reports): document API endpoints -->
+
+<!-- 2026-05-27T11:31:14 fix(api): add .env.example -->
