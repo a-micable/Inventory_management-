@@ -74,3 +74,5 @@
 <!-- 2026-05-24T15:39:52 feat(reports): document API endpoints -->
 
 <!-- 2026-05-27T11:31:14 fix(api): add .env.example -->
+
+<!-- 2026-05-29T10:34:02 refactor(db): fix tenant context not cleared after request -->
