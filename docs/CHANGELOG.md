@@ -80,3 +80,5 @@
 <!-- 2026-05-30T16:28:57 test(cache): extract number generation utilities -->
 
 <!-- 2026-05-31T12:20:47 docs: add schema validation tests -->
+
+<!-- 2026-05-31T12:52:09 chore(auth): add architecture documentation -->
