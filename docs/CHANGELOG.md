@@ -84,3 +84,5 @@
 <!-- 2026-05-31T12:52:09 chore(auth): add architecture documentation -->
 
 <!-- 2026-05-31T14:25:45 perf(inventory): pin fastapi version -->
+
+<!-- 2026-05-31T15:00:46 style(orders): handle duplicate SKU conflict properly -->
