@@ -78,3 +78,5 @@
 <!-- 2026-05-29T10:34:02 refactor(db): fix tenant context not cleared after request -->
 
 <!-- 2026-05-30T16:28:57 test(cache): extract number generation utilities -->
+
+<!-- 2026-05-31T12:20:47 docs: add schema validation tests -->
