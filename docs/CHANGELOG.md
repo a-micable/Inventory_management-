@@ -82,3 +82,5 @@
 <!-- 2026-05-31T12:20:47 docs: add schema validation tests -->
 
 <!-- 2026-05-31T12:52:09 chore(auth): add architecture documentation -->
+
+<!-- 2026-05-31T14:25:45 perf(inventory): pin fastapi version -->
