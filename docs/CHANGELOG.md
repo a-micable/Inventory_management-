@@ -86,3 +86,5 @@
 <!-- 2026-05-31T14:25:45 perf(inventory): pin fastapi version -->
 
 <!-- 2026-05-31T15:00:46 style(orders): handle duplicate SKU conflict properly -->
+
+<!-- 2026-06-02T20:24:24 feat(warehouses): reorganize schema modules by domain -->
