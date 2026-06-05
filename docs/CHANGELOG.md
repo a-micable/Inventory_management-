@@ -90,3 +90,5 @@
 <!-- 2026-06-02T20:24:24 feat(warehouses): reorganize schema modules by domain -->
 
 <!-- 2026-06-04T13:39:20 fix(reports): add inventory adjustment tests -->
+
+<!-- 2026-06-05T09:55:20 refactor(api): document API endpoints -->
