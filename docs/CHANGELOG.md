@@ -94,3 +94,5 @@
 <!-- 2026-06-05T09:55:20 refactor(api): document API endpoints -->
 
 <!-- 2026-06-06T12:50:50 test(db): add GitHub Actions CI workflow -->
+
+<!-- 2026-06-06T13:50:59 docs: resolve session rollback on audit failure -->
