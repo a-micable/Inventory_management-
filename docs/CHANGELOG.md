@@ -92,3 +92,5 @@
 <!-- 2026-06-04T13:39:20 fix(reports): add inventory adjustment tests -->
 
 <!-- 2026-06-05T09:55:20 refactor(api): document API endpoints -->
+
+<!-- 2026-06-06T12:50:50 test(db): add GitHub Actions CI workflow -->
