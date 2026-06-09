@@ -96,3 +96,5 @@
 <!-- 2026-06-06T12:50:50 test(db): add GitHub Actions CI workflow -->
 
 <!-- 2026-06-06T13:50:59 docs: resolve session rollback on audit failure -->
+
+<!-- 2026-06-09T11:27:07 chore(workers): extract number generation utilities -->
