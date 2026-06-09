@@ -98,3 +98,5 @@
 <!-- 2026-06-06T13:50:59 docs: resolve session rollback on audit failure -->
 
 <!-- 2026-06-09T11:27:07 chore(workers): extract number generation utilities -->
+
+<!-- 2026-06-09T13:55:12 perf(auth): add transfer status tests -->
