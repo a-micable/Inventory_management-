@@ -3,7 +3,6 @@
 from __future__ import annotations
 
 from functools import lru_cache
-from typing import Any
 
 from pydantic import Field, field_validator
 from pydantic_settings import BaseSettings, SettingsConfigDict
@@ -25,7 +24,7 @@ class Settings(BaseSettings):
     access_token_expire_minutes: int = Field(30, env="ACCESS_TOKEN_EXPIRE_MINUTES", ge=5)
     refresh_token_expire_days: int = Field(7, env="REFRESH_TOKEN_EXPIRE_DAYS", ge=1)
 
-    allowed_origins: list[str] = Field(default_factory=list, env="ALLOWED_ORIGINS")
+    allowed_origins_raw: str = Field("", env="ALLOWED_ORIGINS")
     run_migrations: bool = Field(False, env="RUN_MIGRATIONS")
     log_level: str = Field("INFO", env="LOG_LEVEL")
 
@@ -35,16 +34,20 @@ class Settings(BaseSettings):
 
     model_config = SettingsConfigDict(env_file=".env", extra="ignore")
 
-    @field_validator("allowed_origins", mode="before")
+    @field_validator("allowed_origins_raw", mode="before")
     @classmethod
-    def parse_origins(cls, value: Any) -> list[str]:
+    def parse_origins(cls, value: str | list[str] | tuple[str, ...] | None) -> str:
         if value is None:
-            return []
+            return ""
         if isinstance(value, str):
-            return [o.strip() for o in value.split(",") if o.strip()]
+            return value
         if isinstance(value, (list, tuple)):
-            return [str(v).strip() for v in value if str(v).strip()]
+            return ",".join(str(v).strip() for v in value if str(v).strip())
         raise TypeError("ALLOWED_ORIGINS must be comma-separated string or list")
+
+    @property
+    def allowed_origins(self) -> list[str]:
+        return [origin.strip() for origin in self.allowed_origins_raw.split(",") if origin.strip()]
 
 
 @lru_cache
