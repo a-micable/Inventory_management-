@@ -28,7 +28,6 @@ class Settings(BaseSettings):
     allowed_origins: list[str] = Field(default_factory=list, env="ALLOWED_ORIGINS")
     run_migrations: bool = Field(False, env="RUN_MIGRATIONS")
     log_level: str = Field("INFO", env="LOG_LEVEL")
-    default_tenant_slug: str = Field("demo", env="DEFAULT_TENANT_SLUG")
 
     cache_ttl_seconds: int = Field(300, env="CACHE_TTL_SECONDS", ge=60)
     audit_retention_days: int = Field(365, env="AUDIT_RETENTION_DAYS", ge=30)

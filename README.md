@@ -1,16 +1,17 @@
-# Multi-Tenant Inventory & Order Management Platform
+# Enterprise Inventory & Order Management API
 
-Production-grade FastAPI backend for multi-tenant inventory, warehouse,
-and order management with JWT authentication, RBAC, audit logging, Redis
-caching, and Celery background workers.
+Modern FastAPI backend for enterprise inventory, warehouse, and order
+operations. Designed for high-throughput multi-tenant deployments with
+role-based access control, audit logging, Redis caching, and asynchronous
+background processing.
 
 ## Architecture
 
-- **API Layer** (`app/routers`) — HTTP endpoints, request validation
-- **Service Layer** (`app/services`) — business logic, transactions
-- **Repository Layer** (`app/repositories`) — data access abstraction
-- **Models** (`app/models`) — SQLAlchemy ORM entities
-- **Workers** (`app/workers`) — async report generation, cache warming
+- **API Layer** (`app/routers`) — HTTP endpoint design and request validation
+- **Service Layer** (`app/services`) — transaction-aware business workflows
+- **Repository Layer** (`app/repositories`) — tenant-aware data access abstraction
+- **Domain Models** (`app/models`) — SQLAlchemy ORM entities with audit metadata
+- **Workers** (`app/workers`) — asynchronous jobs for reporting and maintenance
 
 ## Quick Start
 
@@ -18,21 +19,20 @@ caching, and Celery background workers.
 cp .env.example .env
 docker compose up -d
 docker compose exec api alembic upgrade head
-docker compose exec api python -m app.cli.seed_demo
 ```
 
 API docs: http://localhost:8000/docs
 
-## Modules
+## Core Capabilities
 
-| Module | Description |
-|--------|-------------|
-| Users | Registration, login, JWT, roles (Admin/Manager/Employee) |
-| Inventory | Products, stock adjustments, reservations, transfers |
-| Orders | Create, cancel, fulfill with inventory reservation |
-| Warehouses | Multi-warehouse stock and inter-warehouse transfers |
-| Reports | Inventory and sales analytics |
-| Audit | Immutable action log for inventory and order events |
+| Capability | Description |
+|------------|-------------|
+| Authentication | JWT-based login, refresh tokens, password security |
+| Authorization | RBAC for tenants, users, and operational roles |
+| Inventory | Stock adjustments, reservations, transfers, warehouse lifecycle |
+| Orders | Order creation, fulfillment, cancellation, stock commitment |
+| Reporting | Scheduled and on-demand inventory analytics |
+| Audit | Immutable action logs with tenant and user traceability |
 
 ## Testing
 

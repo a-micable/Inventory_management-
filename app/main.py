@@ -49,7 +49,7 @@ def create_app() -> FastAPI:
     app = FastAPI(
         title=settings.app_name,
         version=settings.app_version,
-        description="Multi-Tenant Inventory & Order Management Platform",
+        description="Enterprise Inventory & Order Management API with audit and operational controls",
         lifespan=lifespan,
         docs_url="/docs",
         redoc_url="/redoc",

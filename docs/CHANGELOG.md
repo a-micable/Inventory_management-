@@ -16,7 +16,6 @@
 - Docker Compose development environment
 - Comprehensive test suite (unit + integration)
 - Prometheus metrics and health probes
-- Demo data seeder CLI
 
 ### Security
 - bcrypt password hashing

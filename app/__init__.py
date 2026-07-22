@@ -1,3 +1,3 @@
-"""Multi-Tenant Inventory & Order Management Platform."""
+"""Enterprise Inventory & Order Management API."""
 
 __version__ = "1.0.0"
