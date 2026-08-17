@@ -18,3 +18,4 @@ build/
 .idea/
 .vscode/
 docker/wheels/
+node_modules/
